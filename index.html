@@ -15,22 +15,13 @@
         <h2>
             Kovil Vaasal, Kalugu Malai - 628552
         </h2>
+        <a href="sample.pdf" target="_blank">Open PDF</a>
+<a href="sample.txt" target="_blank">Open Text File</a>
+<a href="image.jpg" target="_blank">View Image</a>
+
     </div>
     
 </body>
 </html>
 
-<input type="file" id="fileInput">
-<button onclick="openFile()">Open File</button>
 
-<script>
-function openFile() {
-    let fileInput = document.getElementById('fileInput');
-    if (fileInput.files.length > 0) {
-        let fileURL = URL.createObjectURL(fileInput.files[0]);
-        window.open(fileURL);
-    } else {
-        alert("Please select a file first!");
-    }
-}
-</script>
