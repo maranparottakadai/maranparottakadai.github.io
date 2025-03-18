@@ -1,17 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-    <input type="file" id="fileInput">
-    <button onclick="openFile()">Open File</button>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MARAN PAROTTA KADAI</title>
+</head>
+<body>
     
-    <script>
-    function openFile() {
-        let fileInput = document.getElementById('fileInput');
-        if (fileInput.files.length > 0) {
-            let fileURL = URL.createObjectURL(fileInput.files[0]);
-            window.open(fileURL);
-        } else {
-            alert("Please select a file first!");
-        }
+    <div>
+        <p>
+            Parotta naale adhu namma maran parotta kada thaan...
+        </p>
+        <h1>
+            Maran Parotta Kadai
+        </h1>
+        <h2>
+            Kovil Vaasal, Kalugu Malai - 628552
+        </h2>
+    </div>
+    
+</body>
+</html>
+
+<input type="file" id="fileInput">
+<button onclick="openFile()">Open File</button>
+
+<script>
+function openFile() {
+    let fileInput = document.getElementById('fileInput');
+    if (fileInput.files.length > 0) {
+        let fileURL = URL.createObjectURL(fileInput.files[0]);
+        window.open(fileURL);
+    } else {
+        alert("Please select a file first!");
     }
-    </script>
-    
+}
+</script>
