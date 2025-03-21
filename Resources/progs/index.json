@@ -1,0 +1,16 @@
+{
+  "1": {
+    "ProgramName": "1. Sample",
+    "ContentToDisplay": "1. Sample",
+    "ReadFile": "program.5.txt",
+    "DownloadFile": "porgram.5.py",
+    "Downloadable": true
+  },
+  "2": {
+    "ProgramName": "2. Sample",
+    "ContentToDisplay": "2. Sample",
+    "ReadFile": "sample2.txt",
+    "DownloadFile": "sample2.py",
+    "Downloadable": true
+  }
+}
