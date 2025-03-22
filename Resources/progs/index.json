@@ -2,8 +2,8 @@
   "1": {
     "ProgramName": "1. Sample",
     "ContentToDisplay": "1. Sample",
-    "ReadFile": "Resources.txt",
-    "DownloadFile": "Resources.py",
+    "ReadFile": "sample1.txt",
+    "DownloadFile": "sample1.py",
     "Downloadable": true
   },
   "2": {

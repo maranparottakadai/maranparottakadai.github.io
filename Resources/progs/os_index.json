@@ -1,0 +1,93 @@
+{
+  "1": {
+    "ProgramName": "1. Basics of UNIX Commands",
+    "ContentToDisplay": "1. Basics of UNIX Commands",
+    "ReadFile": "os\\1.txt",
+    "DownloadFile": "os\\1.pdf",
+    "Downloadable": true
+  },
+  "2": {
+    "ProgramName": "2. Implementation of System Calls In UNIX",
+    "ContentToDisplay": "2. Implementation of System Calls In UNIX",
+    "ReadFile": "os\\2.txt",
+    "DownloadFile": "os\\programs\\systemCallsInUnix.c",
+    "Downloadable": true
+  },
+  "3.1": {
+    "ProgramName": "3.1. Sum of 'n' Natural Numbers",
+    "ContentToDisplay": "3.1. Sum of 'n' Natural Numbers",
+    "ReadFile": "os\\3,1.txt",
+    "DownloadFile": "os\\programs\\sumOfNNaturalNumbers.sh",
+    "Downloadable": true
+  },
+  "3.2": {
+    "ProgramName": "3.2. Fibonacci Series",
+    "ContentToDisplay": "3.2. Fibonacci Series",
+    "ReadFile": "os\\3,2.txt",
+    "DownloadFile": "os\\programs\\fibonacciSeries.sh",
+    "Downloadable": true
+  },
+  "3.3": {
+    "ProgramName": "3.3. Calculate Employee Payroll",
+    "ContentToDisplay": "3.3. Calculate Employee Payroll",
+    "ReadFile": "os\\3,3.txt",
+    "DownloadFile": "os\\programs\\calculateEmployeePayroll.sh",
+    "Downloadable": true
+  },
+  "3.4": {
+    "ProgramName": "3.4. Reverse and Calculate the Length of a String",
+    "ContentToDisplay": "3.4. Reverse and Calculate the Length of a String",
+    "ReadFile": "os\\3,4.txt",
+    "DownloadFile": "os\\programs\\rev_CalcLengthOfString.sh",
+    "Downloadable": true
+  },
+  "3.5": {
+    "ProgramName": "3.5. Find Palindrome or Not",
+    "ContentToDisplay": "3.5. Find Palindrome or Not",
+    "ReadFile": "os\\3,5.txt",
+    "DownloadFile": "os\\programs\\findIfPalindrome.sh",
+    "Downloadable": true
+  },
+  "5": {
+    "ProgramName": "5. Implementation of Threading & Synchronization Applications",
+    "ContentToDisplay": "5. Implementation of Threading & Synchronization Applications",
+    "ReadFile": "os\\5.txt",
+    "DownloadFile": "os\\programs\\threadingAndSync.c",
+    "Downloadable": true
+  },
+  "6.a": {
+    "ProgramName": "6.a. Round Robin Algorithm",
+    "ContentToDisplay": "6.a Round Robin Algorithm",
+    "ReadFile": "os\\6,a.txt",
+    "DownloadFile": "os\\programs\\roundRobinAlgo.c",
+    "Downloadable": true
+  },
+  "6.b": {
+    "ProgramName": "6.b. Shortest Job First Algorithm",
+    "ContentToDisplay": "6.b. Shortest Job First Algorithm",
+    "ReadFile": "os\\6,b.txt",
+    "DownloadFile": "os\\programs\\sjfAlgo.c",
+    "Downloadable": true
+  },
+  "6.c": {
+    "ProgramName": "6.c. First Come First Serve Algorithm",
+    "ContentToDisplay": "6.c. First Come First Serve Algorithm",
+    "ReadFile": "os\\6,c.txt",
+    "DownloadFile": "os\\programs\\fcfsAlgo.c",
+    "Downloadable": true
+  },
+  "6.d": {
+    "ProgramName": "6.d. Priority Scheduling Algorithm",
+    "ContentToDisplay": "6.d. Priority Scheduling Algorithm",
+    "ReadFile": "os\\6,d.txt",
+    "DownloadFile": "os\\programs\\prioritySchedulingAlgo.c",
+    "Downloadable": true
+  },
+  "manual": {
+    "ProgramName": "FULL LAB MANUAL",
+    "ContentToDisplay": "FULL LAB MANUAL",
+    "ReadFile": "os\\os.html",
+    "DownloadFile": "os\\os.pdf",
+    "Downloadable": true
+  }
+}
