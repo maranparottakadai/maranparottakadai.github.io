@@ -2,8 +2,8 @@
   "1": {
     "ProgramName": "1. Sample",
     "ContentToDisplay": "1. Sample",
-    "ReadFile": "1.txt",
-    "DownloadFile": "1.py",
+    "ReadFile": "_outdated.txt",
+    "DownloadFile": "_outdated.txt",
     "Downloadable": true
   },
   "2": {
