@@ -1,9 +1,9 @@
 {
   "1": {
-    "ProgramName": "1. Sample",
-    "ContentToDisplay": "1. Sample",
-    "ReadFile": "1.html",
-    "DownloadFile": "1.html",
+    "ProgramName": "1. JAVA INPUT AND OUTPUT",
+    "ContentToDisplay": "1. 1. JAVA INPUT AND OUTPUT",
+    "ReadFile": "java\\1.txt",
+    "DownloadFile": "java\\display.java",
     "Downloadable": true
   },
   "2": {
