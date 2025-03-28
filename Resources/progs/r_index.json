@@ -11,7 +11,7 @@
       "ContentToDisplay": "2. Sample",
       "ReadFile": "R\\1.txt",
       "DownloadFile": "R\\1.py",
-      "Downloadable": true
+      "Downloadable": false
     }
   }
   
