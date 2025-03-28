@@ -2,15 +2,15 @@
   "1": {
     "ProgramName": "1. Sample",
     "ContentToDisplay": "1. Sample",
-    "ReadFile": "_outdated.txt",
-    "DownloadFile": "_outdated.txt",
+    "ReadFile": "1.html",
+    "DownloadFile": "1.html",
     "Downloadable": true
   },
   "2": {
     "ProgramName": "2. Sample",
     "ContentToDisplay": "2. Sample",
-    "ReadFile": "sample2.txt",
-    "DownloadFile": "sample2.py",
+    "ReadFile": "java\\2.txt",
+    "DownloadFile": "java\\2.py",
     "Downloadable": true
   }
 }
