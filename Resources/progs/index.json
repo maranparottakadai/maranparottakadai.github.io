@@ -1,16 +1,7 @@
-{
-  "1": {
-    "ProgramName": "1. JAVA INPUT AND OUTPUT",
-    "ContentToDisplay": "1. 1. JAVA INPUT AND OUTPUT",
-    "ReadFile": "java\\1.txt",
-    "DownloadFile": "java\\display.java",
-    "Downloadable": true
-  },
-  "2": {
-    "ProgramName": "2. Sample",
-    "ContentToDisplay": "2. Sample",
-    "ReadFile": "R\\1.txt",
-    "DownloadFile": "R\\1.py",
-    "Downloadable": true
-  }
+"1"{
+      "ProgramName": "1. INSTALLATION OF R PROGRAM AND IMPORT PACKAGES",
+      "ContentToDisplay": "1.INSTALLATION OF R PROGRAM AND IMPORT PACKAGES",
+      "ReadFile": "r\\1.txt",
+      "DownloadFile": "r\\1.txt",
+      "Downloadable": true
 }
