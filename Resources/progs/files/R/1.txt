@@ -1,0 +1,18 @@
+AIM:
+
+To install R and import essential packages in R.
+
+
+PROCEDURE:
+
+
+o	Install R from the official website: https://cran.r-project.org/
+o	Install the required package(s) using install.packages() in R.
+o	Use library() to load the package.
+
+
+SOURCE CODE:
+
+(i)	To print the statement: message="HelloWorld!" print(message)
+(ii)	To include comment line in the program:
+#declare variable age=35 #print variable print(age)

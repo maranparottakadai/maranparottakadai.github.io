@@ -9,8 +9,8 @@
   "2": {
     "ProgramName": "2. Sample",
     "ContentToDisplay": "2. Sample",
-    "ReadFile": "java\\2.txt",
-    "DownloadFile": "java\\2.py",
+    "ReadFile": "R\\1.txt",
+    "DownloadFile": "R\\1.py",
     "Downloadable": true
   }
 }

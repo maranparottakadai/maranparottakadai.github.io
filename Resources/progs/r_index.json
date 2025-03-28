@@ -1,0 +1,17 @@
+{
+    "1": {
+      "ProgramName": "1. INSTALLATION OF R PROGRAM AND IMPORT PACKAGES",
+      "ContentToDisplay": "1.INSTALLATION OF R PROGRAM AND IMPORT PACKAGES",
+      "ReadFile": "r\\1.txt",
+      "DownloadFile": "r\\1.txt",
+      "Downloadable": true
+    },
+    "2": {
+      "ProgramName": "2. Sample",
+      "ContentToDisplay": "2. Sample",
+      "ReadFile": "R\\1.txt",
+      "DownloadFile": "R\\1.py",
+      "Downloadable": true
+    }
+  }
+  
