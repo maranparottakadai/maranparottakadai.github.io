@@ -181,3 +181,16 @@ async function initializeApp() {
 
 // Call the initialize function to start the application
 initializeApp();
+fetch("./Resources/r_index.json")
+  .then((response) => {
+    if (!response.ok) {
+      throw new Error("Network response was not ok");
+    }
+    return response.json();
+  })
+  .then((data) => {
+    populateContent(data);
+  })
+  .catch((error) => {
+    console.error("Error loading r_index.json:", error);
+  });
