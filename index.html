@@ -1,66 +1,69 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./Resources/main.css" />
-    <title>
-      Avlotha Nammala Mudichivuteenga Ponga.. <!-- Irunga bhai kambi ennuveenga
-      parunga bhai ipoo... -->
-    </title>
-  </head>
-  <body>
-    <div class="title" id="title">
-      <h2 id="irrungabhai" class="hiddenH2">
-        <!-- Irunga bhai kambi ennuveenga parunga bhai ipoo... -->
-        <!-- Takkunu eludhu da.. Fraud paiyaa.. Maatikaadha😂 -->
-        Vanakkam da mapla, Second year la irrudhuu...🙏🏼😎
-      </h2>
-      <h2 id="drivermairu" class="hiddenH2">
-        3 naal ah eludhuraa.. innumu password thappa podra..😑
-      </h2>
-    </div>
-    <div id="container" class="container">
-      <!-- CONTENT WILL BE AUTO GENERATED HERE -->
-      <!-- SAMPLE CONTENT -->
-      <!-- <div id="pane" class="os-1">
-        <div class="question">
-          <h1 class="qnH">what is this?</h1>
-        </div>
-        <div class="dwnld_btn">
-          <a href="#" id="atag" class="open_a">
-            <button id="btn" class="open_btn">Open</button>
-          </a>
-          <a href="#" id="atag" class="download_a" download>
-            <button id="btn" class="download_btn">
-              <img
-                src="./Resources/download_icon.png"
-                alt="Download"
-                id="download_icon_img"
-                srcset=""
-              />
-            </button>
-          </a>
-        </div>
-      </div>
-      <div id="pane" class="os-2">
-        <div class="question">
-          <h1 class="qnH"></h1>
-        </div>
-        <div class="dwnld_btn">
-          <a href="#" class="atag" download>
-            <button class="btn">Get</button>
-          </a>
-        </div>
-      </div> -->
-      <div id="no_progs_div" class="no_progs_hidden">
-        <h1 id="no_progs_h1">
-          Onnume podala innum..<br />
-          Aprm aah vandhu paaru...
-        </h1>
-      </div>
-      <!-- AUTO GENERATED CONTENT STARTS HERE -->
-    </div>
-    <script src="./Resources/script.js"></script>
-  </body>
-</html>
+document.addEventListener("DOMContentLoaded", function () {
+  fetch("./Resources/r_index.json")
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("Network response was not ok");
+      }
+      return response.json();
+    })
+    .then((data) => {
+      populateContent(data);
+    })
+    .catch((error) => {
+      console.error("Error loading r_index.json:", error);
+    });
+});
+
+function populateContent(data) {
+  const container = document.getElementById("container");
+  if (!data || data.length === 0) {
+    document.getElementById("no_progs_div").classList.remove("no_progs_hidden");
+    return;
+  }
+  
+  data.forEach((item) => {
+    const pane = document.createElement("div");
+    pane.className = "pane";
+    
+    const questionDiv = document.createElement("div");
+    questionDiv.className = "question";
+    const questionHeading = document.createElement("h1");
+    questionHeading.className = "qnH";
+    questionHeading.textContent = item.question || "No question provided";
+    questionDiv.appendChild(questionHeading);
+    
+    const btnDiv = document.createElement("div");
+    btnDiv.className = "dwnld_btn";
+    
+    if (item.link) {
+      const openLink = document.createElement("a");
+      openLink.href = item.link;
+      openLink.target = "_blank";
+      openLink.className = "open_a";
+      const openButton = document.createElement("button");
+      openButton.className = "open_btn";
+      openButton.textContent = "Open";
+      openLink.appendChild(openButton);
+      btnDiv.appendChild(openLink);
+    }
+    
+    if (item.download) {
+      const downloadLink = document.createElement("a");
+      downloadLink.href = item.download;
+      downloadLink.className = "download_a";
+      downloadLink.download = "";
+      const downloadButton = document.createElement("button");
+      downloadButton.className = "download_btn";
+      const downloadImg = document.createElement("img");
+      downloadImg.src = "./Resources/download_icon.png";
+      downloadImg.alt = "Download";
+      downloadButton.appendChild(downloadImg);
+      downloadLink.appendChild(downloadButton);
+      btnDiv.appendChild(downloadLink);
+    }
+    
+    pane.appendChild(questionDiv);
+    pane.appendChild(btnDiv);
+    container.appendChild(pane);
+  });
+}
