@@ -4,7 +4,7 @@
         "ContentToDisplay": "1.INSTALLATION OF R PROGRAM AND IMPORT PACKAGES",
         "ReadFile": "R\\1.txt",
         "DownloadFile": "R\\1.py",
-        "Downloadable": true
+        "Downloadable": false
       },
       "2": {
         "ProgramName": "2. Sample",
