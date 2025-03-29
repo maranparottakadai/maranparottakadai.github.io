@@ -177,11 +177,10 @@ async function initializeApp() {
         console.error('Error loading JSON file:', error);
       });
   }
-}
+} 
 
-// Call the initialize function to start the application
-initializeApp();
-fetch("./Resources/index.json")
+
+fetch("./Resources/r_index.json")
   .then((response) => {
     if (!response.ok) {
       throw new Error("Network response was not ok");
@@ -194,4 +193,3 @@ fetch("./Resources/index.json")
   .catch((error) => {
     console.error("Error loading index.json:", error);
   });
-
