@@ -177,4 +177,4 @@ async function initializeApp() {
         console.error('Error loading JSON file:', error);
       });
   }
-} 
+}
