@@ -155,26 +155,5 @@ async function initializeApp() {
           'Day and Night okkandhu ready pandravanuku thaan theriyum.. unaku laam enna _____ ah theriyum... <br> Password thappa potuta.. correct ah podu..';
       }
     });
-  } else {
-    document.getElementById('irrungabhai').className = 'visibleH2';
-    document.getElementById('drivermairu').className = 'hiddenH2';
-    fetch(pathToFilesJSON)
-      .then((response) => response.json())
-      .then((jsonData) => {
-        if (Object.keys(jsonData).length === 0) {
-          document.getElementById('no_progs_div').className =
-            'no_progs_visible';
-        } else {
-          document.getElementById('no_progs_div').className = 'no_progs_hidden';
-          for (const programId in jsonData) {
-            const programData = jsonData[programId];
-            const pane = createPane(programId, programData);
-            document.getElementById('container').appendChild(pane);
-          }
-        }
-      })
-      .catch((error) => {
-        console.error('Error loading JSON file:', error);
-      });
-  }
+  } 
 }
