@@ -1,7 +1,7 @@
 {
     "1": {
     "ProgramName": "1. JAVA INPUT AND OUTPUT",
-    "ContentToDisplay": "1. JAVA INPUT AND OUTPUT",
+    "ContentToDisplay": "1. INPUT AND OUTPUT",
     "ReadFile": "R\\1.txt",
     "DownloadFile": "R\\1.py",
     "Downloadable": true
