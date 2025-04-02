@@ -2,15 +2,15 @@
     "1": {
     "ProgramName": "1. JAVA INPUT AND OUTPUT",
     "ContentToDisplay": "1. JAVA INPUT AND OUTPUT",
-    "ReadFile": "java\\1.txt",
-    "DownloadFile": "java\\display.java",
+    "ReadFile": "R\\1.txt",
+    "DownloadFile": "R\\1.py",
     "Downloadable": true
     },
     "2": {
-      "ProgramName": "2. Sample",
-      "ContentToDisplay": "2. Sample",
-      "ReadFile": "R\\1.txt",
-      "DownloadFile": "R\\1.py",
+      "ProgramName": "2.COMMAND LINE AND STRING",
+      "ContentToDisplay": "2. COMMAND LINE AND STRING",
+      "ReadFile": "R\\2.txt",
+      "DownloadFile": "R\\2.py",
       "Downloadable": false
     }
   }
