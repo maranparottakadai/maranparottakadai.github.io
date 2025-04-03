@@ -2,8 +2,8 @@
     "1": {
     "ProgramName": "1. JAVA INPUT AND OUTPUT",
     "ContentToDisplay": "1. INPUT AND OUTPUT",
-    "ReadFile": "R\\1.txt",
-    "DownloadFile": "R\\1.py",
+    "ReadFile": "R\\r-1.html",
+    "DownloadFile": "R\\r-1.png",
     "Downloadable": true
     },
     "2": {
@@ -11,7 +11,7 @@
       "ContentToDisplay": "2. COMMAND LINE AND STRING",
       "ReadFile": "R\\2.txt",
       "DownloadFile": "R\\2.py",
-      "Downloadable": false
+      "Downloadable": false 
     }
   }
   
