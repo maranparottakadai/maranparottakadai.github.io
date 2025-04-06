@@ -14,11 +14,11 @@
       "Downloadable": false 
     },
     "3": {
-      "ProgramName": "2.COMMAND LINE AND STRING",
-      "ContentToDisplay": "2. COMMAND LINE AND STRING",
-      "ReadFile": "R\\2.txt",
-      "DownloadFile": "R\\2.py",
-      "Downloadable": false 
+      "ProgramName": "3.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "3. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
     }
   }
   
