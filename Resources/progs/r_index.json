@@ -12,6 +12,13 @@
       "ReadFile": "R\\2.txt",
       "DownloadFile": "R\\2.py",
       "Downloadable": false 
+    },
+    "3": {
+      "ProgramName": "2.COMMAND LINE AND STRING",
+      "ContentToDisplay": "2. COMMAND LINE AND STRING",
+      "ReadFile": "R\\2.txt",
+      "DownloadFile": "R\\2.py",
+      "Downloadable": false 
     }
   }
   
