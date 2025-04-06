@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaada pundaa.. nee varuva nu enaku theriyum...</title>
+</head>
+<body>
+    <h4>AIM</h4>
+    <p> 
+        To group the IRIS (flower) data points into two different clusters with the help k-means clustering 
+        algorithm.  </p>
+    <h4>PROCEDURE</h4>
+    <p>
+        o   Install the necessary packages in R Studio such as “stats”,”dplyr”, “ggplot2”, “ggfortify”  
+<br>o   Set the current working directory  
+<br>o Save the IRIS dataset in the current working directory
+<br>o Read the dataset in the form of csv file using read.csv () 
+<br>o  Finally create the model (k=2) with the help of k-means clustering algorithm 
+
+    </p>
+    <h4>SOURCE CODE</h4>
+    <p>
+       <br><b> # Loading data </b>
+        <br>data(iris) 
+        <br><b># Structre</b> 
+        <br>str(iris) 
+        <br><b># Installing Packages</b> 
+        <br>install.packages("Cluster") 
+        <br>install. packages("cluster")  
+        <br><b># Loading package</b> 
+        <br>library(ClusterR) 
+        <br>library(cluster) 
+        <br># Removing initial label of 
+        <br># Species from original dataset 
+        <br>iris_1 <- iris[, -5] 
+        <br># Fitting K-Means clustering Model  
+        <br># to training dataset 
+        <br>set.seed(240) # Setting seed 
+        <br>kmeans.re <- kmeans(iris_1, centers = 3, nstart = 20) kmeans.re 
+        <br># Cluster identification for  
+        <br># each observation kmeans.re$cluster 
+        <br># Confusion Matrix 
+        <br>cm <- table(iris$Species, kmeans.re$cluster) cm 
+        <br># Model Evaluation and visualization 
+        <br>plot (iris_1[c("Sepal.Length", "Sepal.Width")])  
+        <br>plot (iris_1[c("Sepal.Length", "Sepal.Width")], col = kmeans.re$cluster)  
+        <br>plot(iris_1[c("Sepal.Length", "Sepal.Width")],col = kmeans.re$cluster,main = "K-means with 3 clusters")  
+        <br>## Plotiing cluster centers kmeans.re$centers 
+        <br>kmeans.re$centers[, c("Sepal.Length", "Sepal.Width")]  
+        <br># cex is font size, pch is symbol 
+       <br> points(kmeans.re$centers[, c("Sepal.Length", "Sepal.Width")], col = 1:3, pch = 8, cex = 3) 
+        <br>## Visualizing clusters y_kmeans <- kmeans.re$cluster 
+        <br>clusplot(iris_1[, c("Sepal.Length", "Sepal.Width")], y_kmeans, 
+        <br>lines = 0, 
+        <br>shade = TRUE,   
+        <br>color = TRUE, 
+         
+        <br>labels = 2,  
+        <br>plotchar = FALSE,  
+        <br>span = TRUE, 
+        <br>main = paste("Cluster iris"), xlab = 'Sepal.Length', ylab = 'Sepal.Width') 
+       
+    <img src="r-9.png" alt="Arrow va vacha mattum enna nu therinjidumada tharkuri mundame.." srcset="">
+</body>
+</html>
