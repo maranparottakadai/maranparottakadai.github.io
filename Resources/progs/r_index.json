@@ -7,11 +7,11 @@
     "Downloadable": true
     },
     "2": {
-      "ProgramName": "2.COMMAND LINE AND STRING",
-      "ContentToDisplay": "2. COMMAND LINE AND STRING",
-      "ReadFile": "R\\2.txt",
-      "DownloadFile": "R\\2.py",
-      "Downloadable": false 
+      "ProgramName": "2.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "2. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
     },
     "3": {
       "ProgramName": "3.IMPLEMENTATION OF DATA TYPES IN R",
@@ -19,6 +19,82 @@
       "ReadFile": "R\\r-2.html",
       "DownloadFile": "R\\r-2.png.",
       "Downloadable": true
-    }
+  },
+  "4": {
+      "ProgramName": "4.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "4. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
+  },
+  "5": {
+      "ProgramName": "5.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "5. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
+  },
+  "6": {
+      "ProgramName": "6.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "6. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
+  },
+  "7": {
+      "ProgramName": "7.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "7. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
+  },
+  "8": {
+      "ProgramName": "8.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "8. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
+  },
+  "9": {
+      "ProgramName": "9.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "9. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
+  },
+  "10": {
+      "ProgramName": "10.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "10. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
+  },
+  "11": {
+      "ProgramName": "11.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "11. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
+  },
+  "12": {
+      "ProgramName": "12.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "12. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
+  },
+  "13": {
+      "ProgramName": "13.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "13. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
+  },
+  "14": {
+      "ProgramName": "14.IMPLEMENTATION OF DATA TYPES IN R",
+      "ContentToDisplay": "14. IMPLEMENTATION OF DATA TYPES IN R",
+      "ReadFile": "R\\r-2.html",
+      "DownloadFile": "R\\r-2.png.",
+      "Downloadable": true
   }
-  
+}
