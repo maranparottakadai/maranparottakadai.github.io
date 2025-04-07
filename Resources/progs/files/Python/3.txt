@@ -1,0 +1,27 @@
+Aim : 
+To implement  Lambda & Filter .
+ 
+
+Procedure:
+ 
+1. Start 
+2. Define a lambda function to perform a specific operation (e.g., square of a 
+number). 
+3. Apply the lambda function on a list to filter. 
+4. Print the results  
+5. End
+
+PROGRAM
+
+n = [10, 15, 20, 25, 30, 35, 40, 45, 50]
+
+# Using filter with a lambda function to filter even numbers
+Even = list(filter(lambda x: x % 2 == 0, n))
+
+print("Filtered Even Numbers are:", Even)
+
+OUTPUT
+
+Filtered Even Numbers are: [10, 20, 30, 40, 50]
+
+=== Code Execution Successful ===
