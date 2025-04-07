@@ -1,0 +1,67 @@
+Aim : To Implement Creating Thread Using Threading Module. 
+
+Procedure: 
+1.  Start 
+2. Import threading module. 
+3. Define a function that will run in a separate thread. 
+4. Create a thread using threading.Thread(). 
+5. Start the thread using start() method and wait for it using join(). 
+6. End 
+
+Program: 
+import threading
+import time
+
+# Function to print odd numbers
+def print_odd():
+    for i in range(1, 20, 2):  # Printing odd numbers from 1 to 19
+        print(f"Odd: {i}")
+        time.sleep(0.5)
+
+# Function to print even numbers
+def print_even():
+    for i in range(2, 21, 2):  # Printing even numbers from 2 to 20
+        print(f"Even: {i}")
+        time.sleep(0.5)
+
+# Creating two threads
+thread_odd = threading.Thread(target=print_odd)
+thread_even = threading.Thread(target=print_even)
+
+# Starting both threads
+thread_odd.start()
+thread_even.start()
+
+# Waiting for both threads to finish
+thread_odd.join()
+thread_even.join()
+
+print("Both threads have finished execution.")
+
+Output:
+Odd: 1
+Even: 2
+Odd: 3
+Even: 4
+Odd: 5
+Even: 6
+Odd: 7
+Even: 8
+Odd: 9
+Even: 10
+Odd: 11
+Even: 12
+Odd: 13
+Even: 14
+Odd: 15
+Even: 16
+Odd: 17
+Even: 18
+Odd: 19
+Even: 20
+Both threads have finished execution.
+
+=== Code Execution Successful === 
+
+Result : 
+Thus the program has been executed and verified.
