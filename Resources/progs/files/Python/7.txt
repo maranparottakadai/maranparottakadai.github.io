@@ -1,0 +1,56 @@
+
+Aim : To Implement Process standard streams. 
+
+Procedure: 
+1. Start 
+2. Import sys module. 
+3. Read input from standard input (sys.stdin). 
+4. Write output to standard output (sys.stdout). 
+5. Redirect error messages using standard error (sys.stderr). 
+6. End
+
+PROGRAM
+
+# Function to take order
+def take_order():
+    print("Taking customer order...")
+    order = {"customer": "Alice", "item": "Laptop", "quantity": 1}
+    return order
+
+# Function to process payment
+def process_payment(order):
+    print(f"Processing payment for {order['customer']}...")
+    order["payment_status"] = "Paid"
+    return order
+
+# Function to prepare the order for shipping
+def prepare_order(order):
+    if order["payment_status"] == "Paid":
+        print(f"Preparing {order['item']} for shipping...")
+        order["order_status"] = "Ready for Shipment"
+    return order
+
+# Function to ship the order
+def ship_order(order):
+    if order["order_status"] == "Ready for Shipment":
+        print(f"Shipping {order['item']} to {order['customer']}...")
+        order["delivery_status"] = "Shipped"
+    return order
+
+# **Process Execution: Order Workflow**
+order = take_order()
+order = process_payment(order)
+order = prepare_order(order)
+order = ship_order(order)
+
+# Final Order Status
+print("\nFinal Order Status:", order)
+OUTPUT
+Taking customer order...
+Processing payment for Alice...
+Preparing Laptop for shipping...
+Shipping Laptop to Alice...
+
+Final Order Status: {'customer': 'Alice', 'item': 'Laptop', 'quantity': 1, 'payment_status': 'Paid', 'order_status': 'Ready for Shipment', 'delivery_status': 'Shipped'}
+
+=== Code Execution Successful ===
