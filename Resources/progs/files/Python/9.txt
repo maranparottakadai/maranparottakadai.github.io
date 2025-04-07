@@ -1,0 +1,64 @@
+Aim : To Implement Python Scripts Here Perform Real Tasks 
+
+Procedure: 
+1. Start 
+2. Define the problem/task that the script will perform. 
+3. Import required libraries for implementation. 
+4. Implement the logic to process data and perform the task. 
+5. Execute the script and validate the output. 
+6. End
+
+PROGRAM
+import os
+import shutil
+
+# Define file categories and their corresponding extensions
+FILE_CATEGORIES = {
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg"],
+    "Documents": [".pdf", ".doc", ".docx", ".txt", ".xlsx", ".pptx"],
+    "Videos": [".mp4", ".avi", ".mov", ".mkv"],
+    "Music": [".mp3", ".wav", ".aac", ".flac"],
+    "Archives": [".zip", ".rar", ".tar", ".gz"],
+    "Programs": [".exe", ".msi", ".sh", ".bat"],
+    "Others": []
+}
+
+def organize_files(directory):
+    """Organizes files in the specified directory based on their extensions."""
+    
+    if not os.path.exists(directory):
+        print("Error: Directory does not exist!")
+        return
+    
+    # Iterate through all the files in the directory
+    for file in os.listdir(directory):
+        file_path = os.path.join(directory, file)
+        
+        # Proceed only if it's a file (not a directory)
+        if os.path.isfile(file_path):
+            file_extension = os.path.splitext(file)[1].lower()  # Get the file extension and make it lowercase
+            folder_name = "Others"  # Default category for unrecognized extensions
+            
+            # Determine the folder name based on file extension
+            for category, extensions in FILE_CATEGORIES.items():
+                if file_extension in extensions:
+                    folder_name = category
+                    break
+            
+            # Create the target folder if it doesn't exist
+            target_folder = os.path.join(directory, folder_name)
+            os.makedirs(target_folder, exist_ok=True)  # Create directory if it doesn't exist
+            
+            # Move the file to the corresponding folder
+            shutil.move(file_path, os.path.join(target_folder, file))
+            print(f"Moved: {file} → {folder_name}")
+
+if __name__ == "__main__":
+    folder_path = input("Enter the folder path to organize: ").strip()
+    organize_files(folder_path)
+    print("✅ File organization completed!")
+
+OUTPUT
+A module you have imported isn't available at the moment. It will be available soon.
+
+=== Code Execution Successful ===
