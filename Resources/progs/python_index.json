@@ -74,27 +74,27 @@
         "ContentToDisplay": "11. General Socket Method",
         "ReadFile": "python\\11.txt",
         "DownloadFile": "python\\11.txt.",
-        "Downloadable": true
+        "Downloadable": false
     },
     "12": {
         "ProgramName": "12.Creating Thread Using Threading Module ",
         "ContentToDisplay": "12.Creating Thread Using Threading Module ",
         "ReadFile": "python\\12.txt",
         "DownloadFile": "python\\12.txt.",
-        "Downloadable": true
+        "Downloadable": false
     },
     "13": {
         "ProgramName": "13. Represent Compound Data Using Python ",
         "ContentToDisplay": "13. Represent Compound Data Using Python ",
         "ReadFile": "python\\13.txt",
         "DownloadFile": "python\\13.txt.",
-        "Downloadable": true
+        "Downloadable": false
     },
     "14": {
         "ProgramName": "14.Dictionaries  ",
         "ContentToDisplay": "14. Dictionaries  ",
         "ReadFile": "python\\14.txt",
         "DownloadFile": "python\\14.txt.",
-        "Downloadable": true
+        "Downloadable": false
     }
   }
