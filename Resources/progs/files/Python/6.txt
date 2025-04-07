@@ -1,0 +1,24 @@
+Aim : To Implement  Creating Methods in Python 
+Procedure: 
+1. Start 
+2. Define a class with attributes. 
+3. Implement instance methods that perform operations on attributes. 
+4. Create an object and call instance methods. 
+5. Implement static methods inside the class using @staticmethod. 
+6. End
+
+PROGRAM
+# Function with two arguments
+def AreaRect(length, width):
+    # Calculate the area of the rectangle
+    Area = length * width
+    return Area
+
+# Function call with two values
+A = AreaRect(15, 5)
+print("Area of the Rectangle: ", A)
+
+OUTPUT
+Area of the Rectangle:  75
+
+=== Code Execution Successful ===
