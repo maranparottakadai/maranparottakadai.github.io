@@ -1,0 +1,26 @@
+Aim : To Implement  Command-line arguments, shell variables. 
+
+Procedure: 
+1. Start 
+2. Import sys module to handle command-line arguments. 
+3. Retrieve and display command-line arguments passed to the script. 
+4. Access and modify environment variables using the os module. 
+5. Execute and print the result 
+6. End
+
+PROGRAM
+import sys
+
+# sys.argv[0] is the script name
+print("Script name:", sys.argv[0])
+
+# Command-line arguments
+if len(sys.argv) > 1:
+    print("Arguments:", sys.argv[1:])
+else:
+    print("No arguments provided.")
+
+OUTPUT
+A module you have imported isn't available at the moment. It will be available soon.
+
+=== Code Execution Successful ===
