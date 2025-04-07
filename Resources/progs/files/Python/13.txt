@@ -1,0 +1,33 @@
+ 
+Aim : To Implement Represent Compound Data Using Python
+ 
+Procedure: 
+1.  Start 
+2. Define a class to represent compound data. 
+3. Create attributes and methods for data manipulation. 
+4. Store multiple related data points in a structured format. 
+5. Implement a method to retrieve and modify the compound data. 
+6. End 
+
+Program: 
+from dataclasses import dataclass
+
+@dataclass
+class Student:
+    name: str
+    regno: str
+    score: float
+
+# Creating an instance of the Student class
+p = Student("Gopika", "RA243241050006", 98.6)
+
+# Printing the instance
+print(p)
+ 
+OUTPUT:
+Student(name='Gopika', regno='RA243241050006', score=98.6)
+
+=== Code Execution Successful ===
+ 
+Result: 
+Thus the program has been executed and verified
