@@ -1,0 +1,50 @@
+Aim : To Implement General Socket Method. 
+
+Procedure: 
+1. Start 
+2. Import the socket module. 
+3. Create a socket using socket.socket(). 
+4. Bind the socket to an IP address and port using bind(). 
+5. Use listen() and accept() for communication. 
+6. End 
+
+Program:  
+import socket 
+def start_server(host='127.0.0.1', port=65432): 
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server_socket: 
+server_socket.bind((host, port)) 
+server_socket.listen() 
+print(f"Server listening on {host}:{port}") 
+conn, addr = server_socket.accept() 
+with conn: 
+print(f"Connected by {addr}") 
+while True: 
+data = conn.recv(1024) 
+if not data: 
+break 
+print(f"Received: {data.decode()}") 
+conn.sendall(data)  # Echo back the received data 
+def start_client(host='127.0.0.1', port=65432): 
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket: 
+client_socket.connect((host, port)) 
+message = "Hello, Server!" 
+client_socket.sendall(message.encode()) 
+data = client_socket.recv(1024) 
+print(f"Received from server: {data.decode()}") 
+if __name__ == "__main__": 
+choice = input("Start as (server/client): ").strip().lower() 
+if choice == "server": 
+start_server() 
+elif choice == "client": 
+start_client() 
+else: 
+print("Invalid choice. Please enter 'server' or 'client'.") 
+ 
+ 
+OUTPUT 
+ 
+ RUN IN COMMAND PROMPT
+ 
+ 
+Result: 
+         Thus the program has been executed and verified.
