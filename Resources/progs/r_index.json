@@ -2,8 +2,9 @@
   "1": {
   "ProgramName": "1. INSTALLATION OF R PROGRAM AND IMPORT PACKAGES ",
  "ContentToDisplay": "1. INSTALLATION OF R PROGRAM AND IMPORT PACKAGES ",
-    "ReadFile": "R\\1.1.png",
-    "DownloadFile": "R\\r-1.png",
+    "ReadFile": "R\\1.html",
+    "DownloadFile": "R\\r-10.png",
+    "DownloadFile ": "R\\r-10.1.png",
     "Downloadable": false
     },
     "2": {
@@ -15,7 +16,6 @@
     },
     "3": {
       "ProgramName": "3.IMPLEMENTATION OF DATA STRUCTURES IN R",
-      "ContentToDisplay": "3.IMPLEMENTATION OF DATA STRUCTURES IN R",
       "ReadFile": "R\\r-3.html",
       "DownloadFile": "R\\r-3.png.",
       "Downloadable": false
