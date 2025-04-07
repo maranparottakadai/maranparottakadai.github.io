@@ -4,70 +4,70 @@
  "ContentToDisplay": "1. INSTALLATION OF R PROGRAM AND IMPORT PACKAGES ",
     "ReadFile": "R\\r-1.html",
     "DownloadFile": "R\\r-1.png",
-    "Downloadable": true
+    "Downloadable": false
     },
     "2": {
       "ProgramName": "2.IMPLEMENTATION OF DATA TYPES IN R",
       "ContentToDisplay": "2. IMPLEMENTATION OF DATA TYPES IN R",
       "ReadFile": "R\\r-2.html",
       "DownloadFile": "R\\r-2.png.",
-      "Downloadable": true
+      "Downloadable": false
     },
     "3": {
       "ProgramName": "3.IMPLEMENTATION OF DATA STRUCTURES IN R",
       "ContentToDisplay": "3.IMPLEMENTATION OF DATA STRUCTURES IN R",
       "ReadFile": "R\\r-3.html",
       "DownloadFile": "R\\r-3.png.",
-      "Downloadable": true
+      "Downloadable": false
   },
   "4": {
       "ProgramName": "4.IMPLEMENTATION OF CONTROL STATEMENTS IN R ",
       "ContentToDisplay": "4. IMPLEMENTATION OF CONTROL STATEMENTS IN R ",
       "ReadFile": "R\\r-4.html",
       "DownloadFile": "R\\r-4.png.",
-      "Downloadable": true
+      "Downloadable": false
   },
   "5": {
       "ProgramName": "5.IMPLEMENTATION OF LOOPING STATEMENTS IN R",
       "ContentToDisplay": "5. IMPLEMENTATION OF LOOPING STATEMENTS IN R",
       "ReadFile": "R\\r-5.html",
       "DownloadFile": "R\\r-5.png.",
-      "Downloadable": true
+      "Downloadable": false
   },
   "6": {
       "ProgramName": "6.IMPLEMENTATION OF DECISION TREE CLASSIFICATION ALGORITHM ",
       "ContentToDisplay": "6.IMPLEMENTATION OF DECISION TREE CLASSIFICATION ALGORITHM ",
       "ReadFile": "R\\r-6.html",
       "DownloadFile": "R\\r-6.png.",
-      "Downloadable": true
+      "Downloadable": false
   },
   "7": {
       "ProgramName": "7.IMPLEMENTATION OF NAÏVE BAYES CLASSIFICATION ALGORITHM",
       "ContentToDisplay": "7.IMPLEMENTATION OF NAÏVE BAYES CLASSIFICATION ALGORITHM",
       "ReadFile": "R\\r-7.html",
       "DownloadFile": "R\\r-7.png.",
-      "Downloadable": true
+      "Downloadable": false
   },
   "8": {
       "ProgramName": "8.IMPLEMENTATION OF K-NN CLASSIFICATION ALGORITHM ",
       "ContentToDisplay": "8.IMPLEMENTATION OF K-NN CLASSIFICATION ALGORITHM ",
       "ReadFile": "R\\r-8.html",
       "DownloadFile": "R\\r-8.png.",
-      "Downloadable": true
+      "Downloadable": false
   },
   "9": {
       "ProgramName": "9.IMPLEMENTATION OF K-MEANS CLUSTERING ALGORITHM",
       "ContentToDisplay": "9.IMPLEMENTATION OF K-MEANS CLUSTERING ALGORITHM",
       "ReadFile": "R\\r-9.html",
       "DownloadFile": "R\\r-9.png.",
-      "Downloadable": true
+      "Downloadable": false
   },
   "10": {
       "ProgramName": "10.IMPLEMENTATION OF DATA TYPES IN R",
       "ContentToDisplay": "10. IMPLEMENTATION OF DATA TYPES IN R",
       "ReadFile": "R\\r-10.html",
       "DownloadFile": "R\\r-10.png.",
-      "Downloadable": true
+      "Downloadable": false
   },
   "11": {
       "ProgramName": "11.IMPLEMENTATION OF DATA TYPES IN R",
