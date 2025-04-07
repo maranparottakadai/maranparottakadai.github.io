@@ -1,0 +1,52 @@
+Aim : To Implement  Dictionaries 
+
+Procedure: 
+1. Start 
+2. Create a dictionary with key-value pairs and access values. 
+3. Perform operations on it. 
+4. End 
+
+Program: 
+# DICTIONARY AND FUNCTIONS: SIMILAR TO LIST, any data types can be used
+
+# Define the dictionary
+d = {0: "Air", 1: "Brilliant", 2: "Character", 3: "Doctor"}
+
+# Print all elements of the dictionary
+print("Elements of dictionary D:")
+print(d)
+
+# Print the length of the dictionary
+print("Length of dictionary:")
+print(len(d))
+
+# Print the maximum key in the dictionary
+print("Max of dictionary key:", max(d))
+
+# Print the minimum key in the dictionary
+print("Minimum value of dictionary key:", min(d))
+
+# Check if key 1 exists in the dictionary
+print("Search for key '1' in dictionary:")
+print(1 in d)
+
+# Check if key 3 exists in the dictionary
+print("Search for key '3' in dictionary:")
+print(3 in d)
+
+OUTPUT 
+Elements of dictionary D:
+{0: 'Air', 1: 'Brilliant', 2: 'Character', 3: 'Doctor'}
+Length of dictionary:
+4
+Max of dictionary key: 3
+Minimum value of dictionary key: 0
+Search for key '1' in dictionary:
+True
+Search for key '3' in dictionary:
+True
+
+=== Code Execution Successful ===
+
+Result: 
+Thus the program has been executed and verified
