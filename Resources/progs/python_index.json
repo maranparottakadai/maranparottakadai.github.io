@@ -2,99 +2,99 @@
     "1": {
     "ProgramName": "1.Python Numbers and List operations ",
    "ContentToDisplay": "1.Python Numbers and List operations  ",
-      "ReadFile": "python\\1.txt",
-      "DownloadFile": "python\\1.txt",
+      "ReadFile": "Python\\1.txt",
+      "DownloadFile": "Python\\1.txt",
       "Downloadable": false
       },
       "2": {
         "ProgramName": "2.Tuple, Strings, Set ",
         "ContentToDisplay": "2.Tuple, Strings, Set ",
-        "ReadFile": "python\\2.txt",
-        "DownloadFile": "python\\2.txt.",
+        "ReadFile": "Python\\2.txt",
+        "DownloadFile": "Python\\2.txt.",
         "Downloadable": false
       },
       "3": {
         "ProgramName": "3.Lambda & Filter ",
         "ContentToDisplay": "3.Lambda & Filter ",
-        "ReadFile": "python\\3.txt",
-        "DownloadFile": "python\\3.txt.",
+        "ReadFile": "Python\\3.txt",
+        "DownloadFile": "Python\\3.txt.",
         "Downloadable": false
     },
     "4": {
         "ProgramName": "4.Creating Class in Python  ",
         "ContentToDisplay": "4.Creating Class in Python  ",
-        "ReadFile": "python\\4.txt",
-        "DownloadFile": "python\\4.txt.",
+        "ReadFile": "Python\\4.txt",
+        "DownloadFile": "Python\\4.txt.",
         "Downloadable": false
     },
     "5": {
         "ProgramName": "5.Creating Object in Python ",
         "ContentToDisplay": "5.Creating Object in Python ",
-        "ReadFile": "python\\5.txt",
-        "DownloadFile": "python\\5.txt.",
+        "ReadFile": "Python\\5.txt",
+        "DownloadFile": "Python\\5.txt.",
         "Downloadable": false
     },
     "6": {
         "ProgramName": "6. Creating Methods in Python",
         "ContentToDisplay": "6. Creating Methods in Python ",
-        "ReadFile": "python\\6.txt",
-        "DownloadFile": "python\\6.txt.",
+        "ReadFile": "Python\\6.txt",
+        "DownloadFile": "Python\\6.txt.",
         "Downloadable": false
     },
     "7": {
         "ProgramName": "7.Process standard streams ",
         "ContentToDisplay": "7.Process standard streams ",
-        "ReadFile": "python\\7.txt",
-        "DownloadFile": "python\\7.txt.",
+        "ReadFile": "Python\\7.txt",
+        "DownloadFile": "Python\\7.txt.",
         "Downloadable": false
     },
     "8": {
         "ProgramName": "8. Command-line arguments, shell variables ",
         "ContentToDisplay": "8. Command-line arguments, shell variables ",
-        "ReadFile": "python\\8.txt",
-        "DownloadFile": "python\\8.txt.",
+        "ReadFile": "Python\\8.txt",
+        "DownloadFile": "Python\\8.txt.",
         "Downloadable": false
     },
     "9": {
         "ProgramName": "9.Python Scripts Here Perform Real Tasks",
         "ContentToDisplay": "9.Python Scripts Here Perform Real Tasks",
-        "ReadFile": "python\\9.txt",
-        "DownloadFile": "python\\9.txt.",
+        "ReadFile": "Python\\9.txt",
+        "DownloadFile": "Python\\9.txt.",
         "Downloadable": false
     },
     "10": {
         "ProgramName": "10.Socket method ",
         "ContentToDisplay": "10.Socket method ",
-        "ReadFile": "python\\10.txt",
-        "DownloadFile": "python\\10.txt.",
+        "ReadFile": "Python\\10.txt",
+        "DownloadFile": "Python\\10.txt.",
         "Downloadable": false
     },
     "11": {
         "ProgramName": "11.General Socket Method",
         "ContentToDisplay": "11. General Socket Method",
-        "ReadFile": "python\\11.txt",
-        "DownloadFile": "python\\11.txt.",
+        "ReadFile": "Python\\11.txt",
+        "DownloadFile": "Python\\11.txt.",
         "Downloadable": false
     },
     "12": {
         "ProgramName": "12.Creating Thread Using Threading Module ",
         "ContentToDisplay": "12.Creating Thread Using Threading Module ",
-        "ReadFile": "python\\12.txt",
-        "DownloadFile": "python\\12.txt.",
+        "ReadFile": "Python\\12.txt",
+        "DownloadFile": "Python\\12.txt.",
         "Downloadable": false
     },
     "13": {
         "ProgramName": "13. Represent Compound Data Using Python ",
         "ContentToDisplay": "13. Represent Compound Data Using Python ",
-        "ReadFile": "python\\13.txt",
-        "DownloadFile": "python\\13.txt.",
+        "ReadFile": "Python\\13.txt",
+        "DownloadFile": "Python\\13.txt.",
         "Downloadable": false
     },
     "14": {
         "ProgramName": "14.Dictionaries  ",
         "ContentToDisplay": "14. Dictionaries  ",
-        "ReadFile": "python\\14.txt",
-        "DownloadFile": "python\\14.txt.",
+        "ReadFile": "Python\\14.txt",
+        "DownloadFile": "Python\\14.txt.",
         "Downloadable": false
     }
   }
