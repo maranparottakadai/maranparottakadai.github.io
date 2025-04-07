@@ -1,0 +1,63 @@
+Aim : To Implement  Creating Object in Python 
+Procedure: 
+1. Start 
+2. Define a class with attributes and methods. 
+3. Create an object of the class using the class constructor. 
+4. Access attributes and methods using the object. 
+5. Modify the object's attributes and call its methods. 
+6. End
+PROGRAM
+
+# Define the Student class
+class Student:
+    name = ""
+    regno = ""
+    year = ""
+    CGPA = 0.0
+
+# Create a list to store student objects
+students = []
+
+# Add data for more than 5 students
+students.append(Student())
+students[0].name = "JANANE"
+students[0].regno = "RA240001"
+students[0].year = "I-MCA"
+students[0].CGPA = 9.8
+
+students.append(Student())
+students[1].name = "Buvaneshwari"
+students[1].regno = "RA240002"
+students[1].year = "I-MCA"
+students[1].CGPA = 9.8
+
+students.append(Student())
+students[2].name = "ALBIN"
+students[2].regno = "RA240003"
+students[2].year = "I-MCA"
+students[2].CGPA = 9.7
+
+students.append(Student())
+students[3].name = "ALBERT"
+students[3].regno = "RA240004"
+students[3].year = "I-MCA"
+students[3].CGPA = 9.6
+
+students.append(Student())
+students[4].name = "SITA"
+students[4].regno = "RA240005"
+students[4].year = "I-MCA"
+students[4].CGPA = 9.9
+
+# Print data for all students
+for student in students:
+    print(f"Name: {student.name}, Register no.: {student.regno}, Year: {student.year}, CGPA: {student.CGPA}")
+OUTPUT
+
+Name: JANANE, Register no.: RA240001, Year: I-MCA, CGPA: 9.8
+Name: Buvaneshwari, Register no.: RA240002, Year: I-MCA, CGPA: 9.8
+Name: ALBIN, Register no.: RA240003, Year: I-MCA, CGPA: 9.7
+Name: ALBERT, Register no.: RA240004, Year: I-MCA, CGPA: 9.6
+Name: SITA, Register no.: RA240005, Year: I-MCA, CGPA: 9.9
+
+=== Code Execution Successful ===
