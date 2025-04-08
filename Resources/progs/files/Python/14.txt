@@ -1,12 +1,16 @@
-Aim : To Implement  Dictionaries 
+Aim : 
+
+To Implement  Dictionaries 
 
 Procedure: 
+
 1. Start 
 2. Create a dictionary with key-value pairs and access values. 
 3. Perform operations on it. 
 4. End 
 
 Program: 
+
 # DICTIONARY AND FUNCTIONS: SIMILAR TO LIST, any data types can be used
 
 # Define the dictionary
@@ -35,6 +39,7 @@ print("Search for key '3' in dictionary:")
 print(3 in d)
 
 OUTPUT 
+
 Elements of dictionary D:
 {0: 'Air', 1: 'Brilliant', 2: 'Character', 3: 'Doctor'}
 Length of dictionary:
