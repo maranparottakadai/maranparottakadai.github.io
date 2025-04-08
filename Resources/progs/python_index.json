@@ -96,5 +96,13 @@
         "ReadFile": "Python\\14.txt",
         "DownloadFile": "Python\\14.txt.",
         "Downloadable": false
-    }
+    },
+    
+    "15": {
+        "ProgramName": "15.Read and write data from/to files in Python Programs  ",
+        "ContentToDisplay": "15.Read and write data from/to files in Python Programs   ",
+        "ReadFile": "Python\\EX15.pdf",
+        "DownloadFile": "Python\\EX15.pdf.",
+        "Downloadable": false
   }
+}
