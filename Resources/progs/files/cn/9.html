@@ -1,0 +1,58 @@
+<br><b>AIM :</b> 
+
+<br>To write a Java program for Error Detecting code using Parity Check. 
+
+<br><b>ALGORITHM :</b>
+ 
+<br>1) Start the program.
+ <br>2) Input the size of the message.
+<br> 3) Input the message as bits.
+ <br>4) Calculate the parity bit based on the count of set bits in the message.
+ <br>5)Output the modified message bits with the appended parity bit.
+ <br>6) Stop the program.
+
+ <br>PROGRAM :
+ 
+ <br>import java.util.*; 
+ <br>class Parity 
+ <br>{ 
+    <br>public static void main(String[] args) 
+    <br>{ 
+        <br>Scanner in = new Scanner(System.in); 
+        <br>System.out.println("Enter the size"); 
+        <br>int size = in.nextInt(); 
+        <br>System.out.println("Enter the message as bits");   
+        <br>String mess = in.next(); 
+        <br>int[] arr = new int[size + 1]; 
+        <br>for (int i = 0; i < size; i++) 
+        <br>{ 
+ 
+            <br>arr[i] = mess.charAt(i) - '0'; 
+            <br>} 
+ 
+            <br>int count = 0; 
+            <br>for (int i = 0; i < size; i++) 
+            <br>{ 
+ 
+                <br>if (arr[i] == 1) 
+                <br>{ 
+                    <br>count++; 
+                    <br>} 
+                    <br> } 
+                    <br>} 
+ 
+                    <br>arr[size] = (count % 2 == 0) ? 0 : 1; 
+                    <br>System.out.println("The modified bits after adding parity is"); 
+                    <br>for (int i = 0; i < size + 1; i++) 
+                    <br>{ 
+ 
+                        <br>System.out.print(arr[i]); 
+                        <br>} 
+ 
+                        <br>System.out.println(); 
+                        <br>} 
+                        <br>}
+
+                        <br>OUTPUT
+
+                        <br>GUYS OUTPUT COMMAND PROMPT LA RUN PANNUGA 
