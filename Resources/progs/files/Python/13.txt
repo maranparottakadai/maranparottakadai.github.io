@@ -1,7 +1,10 @@
  
-Aim : To Implement Represent Compound Data Using Python
+Aim : 
+
+To Implement Represent Compound Data Using Python
  
 Procedure: 
+
 1.  Start 
 2. Define a class to represent compound data. 
 3. Create attributes and methods for data manipulation. 
@@ -10,6 +13,7 @@ Procedure:
 6. End 
 
 Program: 
+
 from dataclasses import dataclass
 
 @dataclass
@@ -25,6 +29,7 @@ p = Student("Gopika", "RA243241050006", 98.6)
 print(p)
  
 OUTPUT:
+
 Student(name='Gopika', regno='RA243241050006', score=98.6)
 
 === Code Execution Successful ===
