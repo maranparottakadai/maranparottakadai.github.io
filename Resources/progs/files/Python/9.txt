@@ -1,4 +1,6 @@
-Aim : To Implement Python Scripts Here Perform Real Tasks 
+Aim : 
+
+To Implement Python Scripts Here Perform Real Tasks 
 
 Procedure: 
 1. Start 
@@ -9,6 +11,7 @@ Procedure:
 6. End
 
 PROGRAM
+
 import os
 import shutil
 
@@ -59,6 +62,7 @@ if __name__ == "__main__":
     print("✅ File organization completed!")
 
 OUTPUT
+
 A module you have imported isn't available at the moment. It will be available soon.
 
 === Code Execution Successful ===
