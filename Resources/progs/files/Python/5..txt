@@ -1,11 +1,16 @@
-Aim : To Implement  Creating Object in Python 
+Aim : 
+
+To Implement  Creating Object in Python 
+
 Procedure: 
+
 1. Start 
 2. Define a class with attributes and methods. 
 3. Create an object of the class using the class constructor. 
 4. Access attributes and methods using the object. 
 5. Modify the object's attributes and call its methods. 
 6. End
+
 PROGRAM
 
 # Define the Student class
@@ -52,6 +57,7 @@ students[4].CGPA = 9.9
 # Print data for all students
 for student in students:
     print(f"Name: {student.name}, Register no.: {student.regno}, Year: {student.year}, CGPA: {student.CGPA}")
+
 OUTPUT
 
 Name: JANANE, Register no.: RA240001, Year: I-MCA, CGPA: 9.8
