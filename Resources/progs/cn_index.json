@@ -2,100 +2,107 @@
     "1": {
       "ProgramName": "1.FAMILIARIZING WITH WINDOW NETWORK COMMANDS",
       "ContentToDisplay": "1.FAMILIARIZING WITH WINDOW NETWORK COMMANDS",
-      "ReadFile": "cn\\EX1.pdf",
+      "ReadFile": "cn\\EX.1.pdf",
       "DownloadFile": "cn\\EX.1.pdf",
       "Downloadable": true
     },
     "2": {
       "ProgramName": "2.ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS OF LAN ESTABLISHING A LOCAL AREA NETWORK (LAN) ",
       "ContentToDisplay": "2. ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS OF LAN ESTABLISHING A LOCAL AREA NETWORK (LAN)",
-      "ReadFile": "cn\\EX2.pdf",
-      "DownloadFile": "cn\\EX2.pdf",
+      "ReadFile": "cn\\EX.2.pdf",
+      "DownloadFile": "cn\\EX.2.pdf",
       "Downloadable": true
     },
     "3": {
       "ProgramName": "3.ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS IN LAN CONNECTING TWO LANs USING ROUTER WITH STATIC ROUTER",
       "ContentToDisplay": "3.ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS IN LAN CONNECTING TWO LANs USING ROUTER WITH STATIC ROUTER",
-      "ReadFile": "java\\3.txt",
-      "DownloadFile": "java\\operators.java",
+      "ReadFile": "cn\\EX.3.pdf",
+      "DownloadFile": "cn\\EX.3.pdf",
       "Downloadable": true
     },
     "4": {
       "ProgramName": "4.ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS IN LAN MULTI-ROUTING CONNECTION",
       "ContentToDisplay": "4.ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS IN LAN MULTI-ROUTING CONNECTION",
-      "ReadFile": "java\\4.txt",
-      "DownloadFile": "java\\forloop.java",
+      "ReadFile": "cn\\EX.4.pdf",
+      "DownloadFile": "cn\\EX.4.pdf",
       "Downloadable": true
     },
     "5": {
       "ProgramName": "5.CONNECTING TWO LANs USING BRIDGE",
       "ContentToDisplay": "5.CONNECTING TWO LANs USING BRIDGE",
-      "ReadFile": "java\\5.txt",
-      "DownloadFile": "java\\whiledemo.java",
+      "ReadFile": "cn\\EX.5.pdf",
+      "DownloadFile": "cn\\EX.5.pdf",
       "Downloadable": true
     },
     "6": {
       "ProgramName": "6.DESIGNING RING AND MESH TOPOLOGIES USING CISCO PACKET TRACER",
       "ContentToDisplay": "6.DESIGNING RING AND MESH TOPOLOGIES USING CISCO PACKET TRACER",
-      "ReadFile": "java\\6.txt",
-      "DownloadFile": "java\\DoWhileExample.java",
+      "ReadFile": "cn\\EX.6.pdf",
+      "DownloadFile": "cn\\EX.6.pdf",
       "Downloadable": true
     },
     "7": {
       "ProgramName": "7.DESIGNING BUS AND STAR TOPOLOGIES USING CISCO PACKET TRACER",
       "ContentToDisplay": "7.DESIGNING BUS AND STAR TOPOLOGIES USING CISCO PACKET TRACER",
-      "ReadFile": "java\\7.txt",
-      "DownloadFile": "java\\array.java",
+      "ReadFile": "cn\\EX.7.pdf",
+      "DownloadFile": "cn\\EX.7.pdf",
       "Downloadable": true
     },
     "8": {
       "ProgramName": "8.DESIGNING HYBRID TOPOLOGIES USING CISCO PACKET TRACER",
       "ContentToDisplay": "8.DESIGNING HYBRID TOPOLOGIES USING CISCO PACKET TRACER",
-      "ReadFile": "java\\8.txt",
-      "DownloadFile": "java\\switchdemo.java",
+      "ReadFile": "cn\\EX.8.pdf",
+      "DownloadFile": "java\\EX.8.pdf",
       "Downloadable": true
     },
     "9": {
       "ProgramName": "9.IMPLEMENTING ERROR DETECTING CODE USING PARITY CHECK",
       "ContentToDisplay": "9.IMPLEMENTING ERROR DETECTING CODE USING PARITY CHECK",
-      "ReadFile": "java\\9.txt",
-      "DownloadFile": "java\\cmdline.java",
+      "ReadFile": "cn\\EX.9.pdf",
+      "DownloadFile": "cn\\EX.9.pdf",
       "Downloadable": true
     },
     "10": {
       "ProgramName": "10.IMPLEMENTING ERROR DETECTING CODE USING CHECKSUM",
       "ContentToDisplay": "10.IMPLEMENTING ERROR DETECTING CODE USING CHECKSUM",
-      "ReadFile": "java\\10.txt",
-      "DownloadFile": "java\\Inherit2.java",
+      "ReadFile": "cn\\EX.10.pdf",
+      "DownloadFile": "cn\\EX.10.pdf",
       "Downloadable": true
     },
     "11": {
       "ProgramName": "11.IMPLEMENTING ERROR DETECTING CODE USING CRC – CCITT",
       "ContentToDisplay": "11.IMPLEMENTING ERROR DETECTING CODE USING CRC – CCITT",
-      "ReadFile": "java\\11.txt",
-      "DownloadFile": "java\\exceptiondemo.zip",
+      "ReadFile": "cn\\EX.11.pdf",
+      "DownloadFile": "cn\\EX.11.pdf",
       "Downloadable": true
     },
     "12": {
       "ProgramName": "12.IMPLEMENTATION OF GO BACK N PROTOCOL",
       "ContentToDisplay": "12.IMPLEMENTATION OF GO BACK N PROTOCOL",
-      "ReadFile": "java\\12.txt",
-      "DownloadFile": "java\\threaddemo.java",
+      "ReadFile": "cn\\EX.12.pdf",
+      "DownloadFile": "cn\\EX.12.pdf",
       "Downloadable": true
     },
     "13": {
       "ProgramName": "13.IMPLEMENTATION OF STOP AND WAIT PROTOCOL",
       "ContentToDisplay": "13.IMPLEMENTATION OF STOP AND WAIT PROTOCOL",
-      "ReadFile": "java\\13.txt",
-      "DownloadFile": "java\\p2.zip",
+      "ReadFile": "cn\\EX.13.pdf",
+      "DownloadFile": "cn\\EX.13.pdf",
       "Downloadable": true
     },
     "14": {
       "ProgramName": "14.IMPLEMENTATION OF SELECTIVE REPEAT PROTOCOL",
       "ContentToDisplay": "14.IMPLEMENTATION OF SELECTIVE REPEAT PROTOCOL",
-      "ReadFile": "java\\14.txt",
-      "DownloadFile": "java\\interfacedemo.java",
+      "ReadFile": "cn\\EX.14.pdf",
+      "DownloadFile": "cn\\EX.14.pdf",
       "Downloadable": true
-    }
+    },
+   "15": {
+  "ProgramName": "15.IMPLEMENTATION OF WEB PROGRAMMING USING HTML",
+  "ContentToDisplay": "15.IMPLEMENTATION OF WEB PROGRAMMING USING HTML",
+  "ReadFile": "cn\\EX.15.pdf",
+  "DownloadFile": "cn\\EX.15.pdf",
+  "Downloadable": true
+  }
 }
   
