@@ -15,15 +15,15 @@ intersection, difference).
 
 PROGRAM
 
-# String operations
-name = "SRM University" 
-name2 = "Trichy"
+      # String operations
+       name = "SRM University" 
+       name2 = "Trichy"
 
-print("First Name:", name)
-print("Second Name:", name2)
+      print("First Name:", name)
+      print("Second Name:", name2)
 
-print("The first letter of a given Name")
-print(name[0])
+       print("The first letter of a given Name")
+        print(name[0])
 
 print("The first letter of a given Name2")
 print(name2[0])
