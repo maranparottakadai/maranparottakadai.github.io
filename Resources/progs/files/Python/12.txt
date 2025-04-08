@@ -1,6 +1,9 @@
-Aim : To Implement Creating Thread Using Threading Module. 
+Aim : 
+
+To Implement Creating Thread Using Threading Module. 
 
 Procedure: 
+
 1.  Start 
 2. Import threading module. 
 3. Define a function that will run in a separate thread. 
@@ -9,6 +12,7 @@ Procedure:
 6. End 
 
 Program: 
+
 import threading
 import time
 
@@ -39,6 +43,7 @@ thread_even.join()
 print("Both threads have finished execution.")
 
 Output:
+
 Odd: 1
 Even: 2
 Odd: 3
