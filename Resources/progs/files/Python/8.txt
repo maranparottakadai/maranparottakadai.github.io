@@ -1,6 +1,9 @@
-Aim : To Implement  Command-line arguments, shell variables. 
+Aim : 
+
+To Implement  Command-line arguments, shell variables. 
 
 Procedure: 
+
 1. Start 
 2. Import sys module to handle command-line arguments. 
 3. Retrieve and display command-line arguments passed to the script. 
@@ -9,6 +12,7 @@ Procedure:
 6. End
 
 PROGRAM
+
 import sys
 
 # sys.argv[0] is the script name
@@ -21,6 +25,7 @@ else:
     print("No arguments provided.")
 
 OUTPUT
+
 A module you have imported isn't available at the moment. It will be available soon.
 
 === Code Execution Successful ===
