@@ -1,0 +1,93 @@
+{
+    "1": {
+      "ProgramName": "1.DISPLAY A TOAST MESSAGE",
+      "ContentToDisplay": "1.DISPLAY A TOAST MESSAGE",
+      "ReadFile": "ad\\EX1.pdf",
+      "DownloadFile": "ad\\EX1.pdf.",
+      "Downloadable": false
+    },
+    "2": {
+      "ProgramName": "2.DESIGN LOGIN PAGE AND DISPLAY MESSAGE USING TOAST MESSAGE AND VALIDATE USER",
+      "ContentToDisplay": "2.DESIGN LOGIN PAGE AND DISPLAY MESSAGE USING TOAST MESSAGE AND VALIDATE USER",
+      "ReadFile": "ad\\EX 2.pdf",
+      "DownloadFile": "ad\\EX 2.pdf",
+      "Downloadable": false
+    },
+    "3": {
+      "ProgramName": "3. Date and Time picker and an Image Demo",
+      "ContentToDisplay": "2.Date and Time picker and an Image Demo",
+      "ReadFile": "java\\EX3.pdf",
+      "DownloadFile": "java\\EX3.pdf",
+      "Downloadable": false
+    },
+    "4": {
+      "ProgramName": "4.Implicit Intent (connecting SRM WebSite)",
+      "ContentToDisplay": "4.Implicit Intent (connecting SRM WebSite)",
+      "ReadFile": "ad\\EX4.pdf",
+      "DownloadFile": "java\\EX4.pdf",
+      "Downloadable": false
+    },
+    "5": {
+      "ProgramName": "5.Explicit Intent (connecting Activity1 to activity2)",
+      "ContentToDisplay": "5.Explicit Intent (connecting Activity1 to activity2)",
+      "ReadFile": "ad\\EX5.pdf",
+      "DownloadFile": "ad\\EX5.pdf",
+      "Downloadable": false
+    },
+    "6": {
+      "ProgramName": "6.STUDENTS REGISTRATION FORM USING LISTVIEW",
+      "ContentToDisplay": "6. STUDENTS REGISTRATION FORM USING LISTVIEW",
+      "ReadFile": "java\\EX6.pdf",
+      "DownloadFile": "java\\EX6.pdf",
+      "Downloadable": false
+    },
+    "7": {
+      "ProgramName": "7. IMPLEMENT CONTEXT MENU",
+      "ContentToDisplay": "7. IMPLEMENT CONTEXT MENU",
+      "ReadFile": "ad\\EX7.pdf",
+      "DownloadFile": "ad\\EX7.pdf",
+      "Downloadable": false
+    },
+    "8": {
+      "ProgramName": "8. SHARED PREFERENCES ",
+      "ContentToDisplay": "8. SHARED PREFERENCES ",
+      "ReadFile": "ad\\EX8.pdf",
+      "DownloadFile": "ad\\EX8.pdf",
+      "Downloadable": false
+    },
+    "9": {
+      "ProgramName": "9. SQLite BANK DATABASE ",
+      "ContentToDisplay": "9. SQLite BANK DATABASE ",
+      "ReadFile": "ad\\EX9.pdf",
+      "DownloadFile": "ad\\EX9.pdf",
+      "Downloadable": false
+    },
+    "10": {
+      "ProgramName": "10. STUDENT APP USING SQLITE",
+      "ContentToDisplay": "10. STUDENT APP USING SQLITE",
+      "ReadFile": "ad\\EX10.pdf",
+      "DownloadFile": "ad\\EX10.pdf",
+      "Downloadable": false
+    },
+    "11": {
+      "ProgramName": "11. DISPLAY A SATELLITE VIEW IN GOOGLE MAP",
+      "ContentToDisplay": "11. DISPLAY A SATELLITE VIEW IN GOOGLE MAP",
+      "ReadFile": "ad\\EX11.pdf",
+      "DownloadFile": "ad\\EX11.pdf",
+      "Downloadable": false
+    },
+    "12": {
+      "ProgramName": "12. DISPLAY A STREET VIEW IN GOOGLE MAP ",
+      "ContentToDisplay": "12. DISPLAY A STREET VIEW IN GOOGLE MAP ",
+      "ReadFile": "ad\\EX12.pdf",
+      "DownloadFile": "ad\\EX12.pdf",
+      "Downloadable": false
+    },
+    "13": {
+      "ProgramName": "13. DISPLAY A TRAFFIC CONDITION VIEW IN GOOGLE MAP",
+      "ContentToDisplay": "13. DISPLAY A TRAFFIC CONDITION VIEW IN GOOGLE MAP",
+      "ReadFile": "ad\\EX13.pdf",
+      "DownloadFile": "ad\\EX13.pdf",
+      "Downloadable": false
+    }
+}
