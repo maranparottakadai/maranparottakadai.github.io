@@ -37,6 +37,8 @@ print(1 in d)
 # Check if key 3 exists in the dictionary
 print("Search for key '3' in dictionary:")
 print(3 in d)
+print("Serach Papaya in dictionary") 
+print('Papaya' in d) 
 
 OUTPUT 
 
