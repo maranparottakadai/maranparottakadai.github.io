@@ -89,5 +89,12 @@
       "ReadFile": "ad\\EX13.pdf",
       "DownloadFile": "ad\\EX13.pdf",
       "Downloadable": false
-    }
+    },
+    "10": {
+      "ProgramName": "1-5",
+      "ContentToDisplay": "1-5",
+      "ReadFile": "ad\\1word.docx",
+      "DownloadFile": "ad\\1word.docx",
+      "Downloadable": false
+}
 }
