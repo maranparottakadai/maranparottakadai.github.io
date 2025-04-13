@@ -1,5 +1,5 @@
 {
-  "pathToFilesJSON": "./Resources/progs/index.json",
+  "pathToFilesJSON": "./Resources/progs/se_index.json",
   "pathToPasswordsJSON": "./Resources/progs/passwords.json",
   "cookieExpireTimeInMinutes":1,
   "bypassPassword": false
