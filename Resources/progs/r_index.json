@@ -8,15 +8,14 @@
     },
     "2": {
       "ProgramName": "2.  Implementation of R Program – Basic ",
-      "ContentToDisplay": "2. Implementation of R Program – Basic (IMPLEMENTATION OF DATA STRUCTURES IN R  ) ",
-      "ContentToDisplay": "2. (IMPLEMENTATION OF DATA STRUCTURES IN R  ) ",
+      "ContentToDisplay": "2. Implementation of R Program – Basic                  (IMPLEMENTATION OF DATA STRUCTURES IN R  ) ",
       "ReadFile": "R\\EX2.pdf",
       "DownloadFile": "R\\EX2.pdf",
       "Downloadable": false
     },
     "3": {
       "ProgramName": "3.  Implementation of R Program – Basic (Addition)",
-      "ContentToDisplay":"3.Implementation of R Program – Basic (Addition)",   
+      "ContentToDisplay":"3.Implementation of R Program – Basic (Addition)              (IMPLEMENTATION OF DATA STRUCTURES IN R)",   
       "ReadFile": "R\\EX3.pdf",
       "DownloadFile": "R\\EX3.pdf",
       "Downloadable": false
