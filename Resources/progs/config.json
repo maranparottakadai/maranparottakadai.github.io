@@ -1,5 +1,5 @@
 {
-  "pathToFilesJSON": "./Resources/progs/awad_index.json",
+  "pathToFilesJSON": "./Resources/progs/index.json",
   "pathToPasswordsJSON": "./Resources/progs/passwords.json",
   "cookieExpireTimeInMinutes":1,
   "bypassPassword": false
