@@ -2,98 +2,99 @@
   "1": {
   "ProgramName": "1. INSTALLATION OF R PROGRAM AND IMPORT PACKAGES ",
  "ContentToDisplay": "1. INSTALLATION OF R PROGRAM AND IMPORT PACKAGES ",
-    "ReadFile": "cn\\9.html",
-    "DownloadFile": "cn\\9.html",
+    "ReadFile": "R\\EX1.pdf",
+    "DownloadFile": "R\\EX1.pdf.",
     "Downloadable": false
     },
     "2": {
-      "ProgramName": "2.IMPLEMENTATION OF DATA TYPES IN R",
-      "ContentToDisplay": "2. IMPLEMENTATION OF DATA TYPES IN R",
-      "ReadFile": "R\\r-2.html",
-      "DownloadFile": "R\\r-2.png.",
+      "ProgramName": "2.  Implementation of R Program – Basic ",
+      "ContentToDisplay": "2. Implementation of R Program – Basic (IMPLEMENTATION OF DATA STRUCTURES IN R  ) ",
+      "ReadFile": "R\\EX2.pdf",
+      "DownloadFile": "R\\EX2.pdf",
       "Downloadable": false
     },
     "3": {
-      "ProgramName": "3.IMPLEMENTATION OF DATA STRUCTURES IN R",
-      "ReadFile": "R\\r-3.html",
-      "DownloadFile": "R\\r-3.png.",
+      "ProgramName": "3.  Implementation of R Program – Basic (Addition)",
+      "ContentToDisplay":"3.Implementation of R Program – Basic (Addition)",   
+      "ReadFile": "R\\EX3.pdf",
+      "DownloadFile": "R\\EX3.pdf",
       "Downloadable": false
   },
   "4": {
-      "ProgramName": "4.IMPLEMENTATION OF CONTROL STATEMENTS IN R ",
-      "ContentToDisplay": "4. IMPLEMENTATION OF CONTROL STATEMENTS IN R ",
-      "ReadFile": "R\\r-4.html",
-      "DownloadFile": "R\\r-4.png.",
+      "ProgramName": "4.  Implementation of Data Types ",
+      "ContentToDisplay": "4.  Implementation of Data Types  (IMPLEMENTATION OF CONTROL STATEMENTS IN R )",
+      "ReadFile":"R\\EX4.pdf",
+      "DownloadFile": "R\\EX4.pdf",
       "Downloadable": false
   },
   "5": {
-      "ProgramName": "5.IMPLEMENTATION OF LOOPING STATEMENTS IN R",
-      "ContentToDisplay": "5. IMPLEMENTATION OF LOOPING STATEMENTS IN R",
-      "ReadFile": "R\\r-5.html",
-      "DownloadFile": "R\\r-5.png.",
+      "ProgramName": "5. Implementation of Control Statements ",
+      "ContentToDisplay": "5.  Implementation of Control Statements (MPLEMENTATION OF LOOPING STATEMENTS IN R ) ",
+      "ReadFile": "R\\EX5.pdf",
+      "DownloadFile": "R\\EX5.pdf",
       "Downloadable": false
   },
   "6": {
-      "ProgramName": "6.IMPLEMENTATION OF DECISION TREE CLASSIFICATION ALGORITHM ",
-      "ContentToDisplay": "6.IMPLEMENTATION OF DECISION TREE CLASSIFICATION ALGORITHM ",
-      "ReadFile": "R\\r-6.html",
-      "DownloadFile": "R\\r-6.png.",
+      "ProgramName": "6.  Implementation of Looping Statements  ",
+      "ContentToDisplay": "6.  Implementation of Looping Statements (IMPLEMENTATION OF DECISION TREE CLASSIFICATION  ALGORITHM ) ",
+      "ReadFile": "R\\EX6.pdf",
+      "DownloadFile": "R\\EX6.pdf",
       "Downloadable": false
   },
   "7": {
-      "ProgramName": "7.IMPLEMENTATION OF NAÏVE BAYES CLASSIFICATION ALGORITHM",
-      "ContentToDisplay": "7.IMPLEMENTATION OF NAÏVE BAYES CLASSIFICATION ALGORITHM",
-      "ReadFile": "R\\r-7.html",
-      "DownloadFile": "R\\r-7.png.",
+      "ProgramName": "7.  Implementation of Decision Tree and KNN in R ",
+      "ContentToDisplay": "7.  Implementation of Decision Tree and KNN in R  (IMPLEMENTATION OF NAÏVE BAYES CLASSIFICATION ALGORITHM)",
+      "ReadFile": "R\\EX7.pdf",
+      "DownloadFile": "R\\EX7.pdf",
       "Downloadable": false
   },
   "8": {
-      "ProgramName": "8.IMPLEMENTATION OF K-NN CLASSIFICATION ALGORITHM ",
-      "ContentToDisplay": "8.IMPLEMENTATION OF K-NN CLASSIFICATION ALGORITHM ",
-      "ReadFile": "R\\r-8.html",
-      "DownloadFile": "R\\r-8.png.",
+      "ProgramName": "8.   Implementation of Naïve Bayes ",
+      "ContentToDisplay": "8.  Implementation of Naïve Bayes (MPLEMENTATION OF K-NN CLASSIFICATION  ALGORITHM) ",
+      "ReadFile": "R\\EX8.pdf",
+      "DownloadFile": "R\\EX8.pdf",
       "Downloadable": false
   },
   "9": {
-      "ProgramName": "9.IMPLEMENTATION OF K-MEANS CLUSTERING ALGORITHM",
-      "ContentToDisplay": "9.IMPLEMENTATION OF K-MEANS CLUSTERING ALGORITHM",
-      "ReadFile": "R\\r-9.html",
-      "DownloadFile": "R\\r-9.png.",
+      "ProgramName": "9.  Implementation of Random Forest ",
+      "ContentToDisplay": "9.IMPLEMENTATION OF K-MEANS CLUSTERING ALGORITHM  (Implementation of Random Forest )",
+      "ReadFile": "R\\EX9.pdf",
+      "DownloadFile": "R\\EX9.pdf",
       "Downloadable": false
   },
   "10": {
-      "ProgramName": "10.IMPLEMENTATION OF DATA TYPES IN R",
-      "ContentToDisplay": "10. IMPLEMENTATION OF DATA TYPES IN R",
-      "ReadFile": "R\\r-10.html",
-      "DownloadFile": "R\\r-10.png.",
+      "ProgramName": "10. Implementation of K-means ",
+      "ContentToDisplay": "10. Implementation of K-means (IMPLEMENTATION OF  K-MEDOIDS  CLUSTERING  ALGORITHM ) ",
+      "ReadFile": "R\\EX10.pdf",
+      "DownloadFile": "R\\EX10.pdf",
       "Downloadable": false
   },
   "11": {
-      "ProgramName": "11.IMPLEMENTATION OF DATA TYPES IN R",
-      "ContentToDisplay": "11. IMPLEMENTATION OF DATA TYPES IN R",
-      "ReadFile": "R\\r-11.html",
-      "DownloadFile": "R\\r-11.png.",
-      "Downloadable": true
+      "ProgramName": "11. Implementation of Medoids in R ",
+      "ContentToDisplay": "11.   Implementation of Medoids in R  (IMPLEMENTATION OF DATA VISUALIZATION IN R- BAR PLOT AND HISTOGRAM )",
+      "ReadFile": "R\\EX11.pdf",
+      "DownloadFile": "R\\EX11.pdf",
+      "Downloadable": false
   },
   "12": {
-      "ProgramName": "12.IMPLEMENTATION OF DATA TYPES IN R",
-      "ContentToDisplay": "12. IMPLEMENTATION OF DATA TYPES IN R",
-      "ReadFile": "R\\r-12.html",
-      "DownloadFile": "R\\r-12.png.",
-      "Downloadable": true
+      "ProgramName": "12. Implementation of Hierarchical Clustering in R ",
+      "ContentToDisplay": "12. Implementation of Hierarchical Clustering in R  (IMPLEMENTATION OF DATA VISUALIZATION IN R- BOX PLOT AND SCATTER PLOT)",
+      "ReadFile": "R\\EX12.pdf",
+      "DownloadFile": "R\\EX12.pdf",
+      "Downloadable": false
   },
   "13": {
-      "ProgramName": "13.IMPLEMENTATION OF DATA TYPES IN R",
-      "ContentToDisplay": "13. IMPLEMENTATION OF DATA TYPES IN R",
-      "ReadFile": "R\\r-13.html",
-      "DownloadFile": "R\\r-13.png.",
-      "Downloadable": true
+      "ProgramName": "13.  Implementation of various charts ",
+      "ContentToDisplay": "13.  Implementation of various charts ",
+      "ReadFile": "R\\EX13.pdf",
+      "DownloadFile": "R\\EX13.pdf",
+      "Downloadable": false
   },
   "14": {
-      "ProgramName": "14.IMPLEMENTATION OF DATA TYPES IN R",
-      "ContentToDisplay": "14. IMPLEMENTATION OF DATA TYPES IN R",
-      "ReadFile": "R\\r-14.html",
-      "DownloadFile": "R\\r-14.png.",
-      "Downloadable": true
+      "ProgramName": "14. Implementation of predictive model IN R ",
+      "ContentToDisplay": "14. Implementation of predictive model IN R ",
+      "ReadFile": "R\\EX14.pdf",
+      "DownloadFile": "R\\EX14.pdf",
+      "Downloadable": false
   }
 }
