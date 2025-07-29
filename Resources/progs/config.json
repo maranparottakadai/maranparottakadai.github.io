@@ -1,7 +1,6 @@
 {
-  "pathToFilesJSON": "./Resources/progs/dt_index.json",
+  "pathToFilesJSON": "./Resources/progs/no_index.json",
   "pathToPasswordsJSON": "./Resources/progs/passwords.json",
-  "cookieExpireTimeInMinutes":1,
+  "cookieExpireTimeInMinutes": 2,
   "bypassPassword": false
 }
-  
