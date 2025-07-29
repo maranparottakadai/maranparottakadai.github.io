@@ -1,6 +1,9 @@
-Aim : To Implement Socket method  . 
+Aim : 
+
+To Implement Socket method  . 
 
 Procedure: 
+
 1. Start 
 2. Import the socket module. 
 3. Create a client socket using socket.socket(). 
@@ -42,7 +45,7 @@ print (from_server.decode())
 OUTPUT 
  
  
- RUN IN COMMENT PROMPT
+ RUN IN COMMENT PROMPT APA THA OUTPUT VARUM
  
  
 Result: 

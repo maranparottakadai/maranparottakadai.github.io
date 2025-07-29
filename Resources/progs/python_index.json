@@ -30,8 +30,8 @@
     "5": {
         "ProgramName": "5.Creating Object in Python ",
         "ContentToDisplay": "5.Creating Object in Python ",
-        "ReadFile": "Python\\5.txt",
-        "DownloadFile": "Python\\5.txt.",
+        "ReadFile": "Python\\5..txt",
+        "DownloadFile": "Python\\5..txt.",
         "Downloadable": false
     },
     "6": {
@@ -96,5 +96,20 @@
         "ReadFile": "Python\\14.txt",
         "DownloadFile": "Python\\14.txt.",
         "Downloadable": false
-    }
+    },
+    
+    "15": {
+        "ProgramName": "15.Read and write data from/to files in Python Programs  ",
+        "ContentToDisplay": "15.Read and write data from/to files in Python Programs   ",
+        "ReadFile": "Python\\EX15.pdf",
+        "DownloadFile": "Python\\EX15.pdf.",
+        "Downloadable": false
+  },
+  "16": {
+        "ProgramName": "16. Read and write data from/to files in Python Programs  ",
+        "ContentToDisplay": "16. Read and write data from/to files in Python Programs   ",
+        "ReadFile": "Python\\EX16.pdf",
+        "DownloadFile": "Python\\EX16.pdf.",
+        "Downloadable": false
   }
+}

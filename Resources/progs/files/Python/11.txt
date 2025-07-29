@@ -1,6 +1,9 @@
-Aim : To Implement General Socket Method. 
+Aim : 
+
+To Implement General Socket Method. 
 
 Procedure: 
+
 1. Start 
 2. Import the socket module. 
 3. Create a socket using socket.socket(). 
@@ -9,6 +12,7 @@ Procedure:
 6. End 
 
 Program:  
+
 import socket 
 def start_server(host='127.0.0.1', port=65432): 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server_socket: 
@@ -43,7 +47,8 @@ print("Invalid choice. Please enter 'server' or 'client'.")
  
 OUTPUT 
  
- RUN IN COMMAND PROMPT
+ RUN IN COMMAND PROMPT APO THE OUTPUT VARUM
+
  
  
 Result: 

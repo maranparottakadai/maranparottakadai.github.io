@@ -1,7 +1,10 @@
 
-Aim : To Implement Process standard streams. 
+Aim : 
+
+To Implement Process standard streams. 
 
 Procedure: 
+
 1. Start 
 2. Import sys module. 
 3. Read input from standard input (sys.stdin). 
@@ -45,7 +48,9 @@ order = ship_order(order)
 
 # Final Order Status
 print("\nFinal Order Status:", order)
+
 OUTPUT
+
 Taking customer order...
 Processing payment for Alice...
 Preparing Laptop for shipping...

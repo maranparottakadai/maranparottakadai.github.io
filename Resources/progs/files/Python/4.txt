@@ -1,12 +1,18 @@
-Aim : To implement Creating Class in Python. 
+Aim : 
+
+To implement Creating Class in Python. 
+
 Procedure: 
+
 1. Start 
 2. Define a class using the class keyword. 
 3. Declare attributes inside the class. 
 4. Define a constructor method (__init__) to initialize attributes. 
 5. Create a method inside the class to display information. 
 6. End 
+
 Program: 
+
 # define a class 
 class Student: 
 name = "" 
@@ -24,6 +30,7 @@ print(f"Name: {s1.name}, Register no.:{s1.regno}, Year:{s1.year}, CGPA:
 {s1.CGPA}")
 
 OUTPUT
+
 Name: JANANE, Register no.: RA240001, Year: I-MCA, CGPA: 9.8
 
 === Code Execution Successful ===

@@ -1,4 +1,7 @@
-Aim : To Implement  Creating Methods in Python 
+Aim : 
+
+To Implement  Creating Methods in Python 
+
 Procedure: 
 1. Start 
 2. Define a class with attributes. 
@@ -8,6 +11,7 @@ Procedure:
 6. End
 
 PROGRAM
+
 # Function with two arguments
 def AreaRect(length, width):
     # Calculate the area of the rectangle
@@ -19,6 +23,7 @@ A = AreaRect(15, 5)
 print("Area of the Rectangle: ", A)
 
 OUTPUT
+
 Area of the Rectangle:  75
 
 === Code Execution Successful ===
