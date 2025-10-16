@@ -1,108 +1,11 @@
 {
     "1": {
-      "ProgramName": "1.FAMILIARIZING WITH WINDOW NETWORK COMMANDS",
-      "ContentToDisplay": "1.FAMILIARIZING WITH WINDOW NETWORK COMMANDS",
-      "ReadFile": "cn\\EX1.pdf",
-      "DownloadFile": "cn\\EX1.pdf",
+      "ProgramName": "1.goldy",
+      "ContentToDisplay": "1.goldy",
+      "ReadFile": "cn\\DEV_LabManual.pdf",
+      "DownloadFile": "cn\\DEV_LabManual.pdf",
       "Downloadable": false
-    },
-    "2": {
-      "ProgramName": "2.ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS OF LAN ESTABLISHING A LOCAL AREA NETWORK (LAN) ",
-      "ContentToDisplay": "2. ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS OF LAN ESTABLISHING A LOCAL AREA NETWORK (LAN)",
-      "ReadFile": "cn\\EX.2.pdf",
-      "DownloadFile": "cn\\EX.2.pdf",
-      "Downloadable": false
-    },
-    "3": {
-      "ProgramName": "3.ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS IN LAN CONNECTING TWO LANs USING ROUTER WITH STATIC ROUTER",
-      "ContentToDisplay": "3.ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS IN LAN CONNECTING TWO LANs USING ROUTER WITH STATIC ROUTER",
-      "ReadFile": "cn\\EX.3.pdf",
-      "DownloadFile": "cn\\EX.3.pdf",
-      "Downloadable": false
-    },
-    "4": {
-      "ProgramName": "4.ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS IN LAN MULTI-ROUTING CONNECTION",
-      "ContentToDisplay": "4.ANALYZING THE PERFORMANCE OF VARIOUS CONFIGURATIONS AND PROTCOLS IN LAN MULTI-ROUTING CONNECTION",
-      "ReadFile": "cn\\EX.4.pdf",
-      "DownloadFile": "cn\\EX.4.pdf",
-      "Downloadable": false
-    },
-    "5": {
-      "ProgramName": "5.CONNECTING TWO LANs USING BRIDGE",
-      "ContentToDisplay": "5.CONNECTING TWO LANs USING BRIDGE",
-      "ReadFile": "cn\\EX.5.pdf",
-      "DownloadFile": "cn\\EX.5.pdf",
-      "Downloadable": false
-    },
-    "6": {
-      "ProgramName": "6.DESIGNING RING AND MESH TOPOLOGIES USING CISCO PACKET TRACER",
-      "ContentToDisplay": "6.DESIGNING RING AND MESH TOPOLOGIES USING CISCO PACKET TRACER",
-      "ReadFile": "cn\\EX.6.pdf",
-      "DownloadFile": "cn\\EX.6.pdf",
-      "Downloadable": false
-    },
-    "7": {
-      "ProgramName": "7.DESIGNING BUS AND STAR TOPOLOGIES USING CISCO PACKET TRACER",
-      "ContentToDisplay": "7.DESIGNING BUS AND STAR TOPOLOGIES USING CISCO PACKET TRACER",
-      "ReadFile": "cn\\EX.7.pdf",
-      "DownloadFile": "cn\\EX.7.pdf",
-      "Downloadable": false
-    },
-    "8": {
-      "ProgramName": "8.DESIGNING HYBRID TOPOLOGIES USING CISCO PACKET TRACER",
-      "ContentToDisplay": "8.DESIGNING HYBRID TOPOLOGIES USING CISCO PACKET TRACER",
-      "ReadFile": "cn\\EX.8.pdf",
-      "DownloadFile": "java\\EX.8.pdf",
-      "Downloadable": false
-    },
-    "9": {
-      "ProgramName": "9.IMPLEMENTING ERROR DETECTING CODE USING PARITY CHECK",
-      "ContentToDisplay": "9.IMPLEMENTING ERROR DETECTING CODE USING PARITY CHECK",
-      "ReadFile": "cn\\EX.9.pdf",
-      "DownloadFile": "cn\\EX.9.pdf",
-      "Downloadable": false
-    },
-    "10": {
-      "ProgramName": "10.IMPLEMENTING ERROR DETECTING CODE USING CHECKSUM",
-      "ContentToDisplay": "10.IMPLEMENTING ERROR DETECTING CODE USING CHECKSUM",
-      "ReadFile": "cn\\EX.10.pdf",
-      "DownloadFile": "cn\\EX.10.pdf",
-      "Downloadable": false
-    },
-    "11": {
-      "ProgramName": "11.IMPLEMENTING ERROR DETECTING CODE USING CRC – CCITT",
-      "ContentToDisplay": "11.IMPLEMENTING ERROR DETECTING CODE USING CRC – CCITT",
-      "ReadFile": "cn\\EX.11.pdf",
-      "DownloadFile": "cn\\EX.11.pdf",
-      "Downloadable": false
-    },
-    "12": {
-      "ProgramName": "12.IMPLEMENTATION OF GO BACK N PROTOCOL",
-      "ContentToDisplay": "12.IMPLEMENTATION OF GO BACK N PROTOCOL",
-      "ReadFile": "cn\\EX.12.pdf",
-      "DownloadFile": "cn\\EX.12.pdf",
-      "Downloadable": false
-    },
-    "13": {
-      "ProgramName": "13.IMPLEMENTATION OF STOP AND WAIT PROTOCOL",
-      "ContentToDisplay": "13.IMPLEMENTATION OF STOP AND WAIT PROTOCOL",
-      "ReadFile": "cn\\EX.13.pdf",
-      "DownloadFile": "cn\\EX.13.pdf",
-      "Downloadable": false
-    },
-    "14": {
-      "ProgramName": "14.IMPLEMENTATION OF SELECTIVE REPEAT PROTOCOL",
-      "ContentToDisplay": "14.IMPLEMENTATION OF SELECTIVE REPEAT PROTOCOL",
-      "ReadFile": "cn\\EX.14.pdf",
-      "DownloadFile": "cn\\EX.14.pdf",
-      "Downloadable": false
-    },
-   "15": {
-  "ProgramName": "15.IMPLEMENTATION OF WEB PROGRAMMING USING HTML",
-  "ContentToDisplay": "15.IMPLEMENTATION OF WEB PROGRAMMING USING HTML",
-  "ReadFile": "cn\\EX.15.pdf",
-  "DownloadFile": "cn\\EX.15.pdf",
-  "Downloadable": false
-  }
+    }
+    
 }
   
