@@ -1,0 +1,86 @@
+{
+    "1": {
+      "ProgramName": "1.CASE TOOLS ",
+      "ContentToDisplay": "1.CASE TOOLS ",
+      "ReadFile": "ooad\\Ex1.pdf",
+      "DownloadFile": "ooad\\Ex1.pdf",
+      "Downloadable": false
+    },
+     "2": {
+      "ProgramName": "2.PASSPORT AUTOMATION SYSTEM",
+      "ContentToDisplay": "2.PASSPORT AUTOMATION SYSTEM",
+      "ReadFile": "ooad\\Ex2.pdf",
+      "DownloadFile": "ooad\\Ex2.pdf",
+      "Downloadable": false
+    },
+     "3": {
+      "ProgramName": "3.BOOK BANK SYSTEM",
+      "ContentToDisplay": "3.BOOK BANK SYSTEM",
+      "ReadFile": "ooad\\Ex3.pdf",
+      "DownloadFile": "ooad\\Ex3.pdf",
+      "Downloadable": false
+    },
+     "4": {
+      "ProgramName": "4.EXAM REGISTRATION SYSTEM ",
+      "ContentToDisplay": "4.EXAM REGISTRATION SYSTEM ",
+      "ReadFile": "ooad\\Ex4.pdf",
+      "DownloadFile": "ooad\\Ex4.pdf",
+      "Downloadable": false
+    },
+     "5": {
+      "ProgramName": "5.STOCK MAINTENANCE",
+      "ContentToDisplay": "5.STOCK MAINTENANCE",
+      "ReadFile": "ooad\\Ex5.pdf",
+      "DownloadFile": "ooad\\Ex5.pdf",
+      "Downloadable": false
+    },
+     "6": {
+      "ProgramName": "6. ONLINE COURSE RESERVATION SYSTEM ",
+      "ContentToDisplay": "6. ONLINE COURSE RESERVATION SYSTEM ",
+      "ReadFile": "ooad\\Ex6.pdf",
+      "DownloadFile": "ooad\\Ex6.pdf",
+      "Downloadable": false
+    },
+     "7": {
+      "ProgramName": "7.AIRLINE/RAILWAY RESERVATION SYSTEM",
+      "ContentToDisplay": "7.AIRLINE/RAILWAY RESERVATION SYSTEM",
+      "ReadFile": "ooad\\Ex7.pdf",
+      "DownloadFile": "ooad\\Ex7.pdf",
+      "Downloadable": false
+    },
+     "8": {
+      "ProgramName": "8.SOFTWARE PERSONNEL MANAGEMENT SYSTEM",
+      "ContentToDisplay": "8.SOFTWARE PERSONNEL MANAGEMENT SYSTEM",
+      "ReadFile": "ooad\\Ex8.pdf",
+      "DownloadFile": "ooad\\Ex8.pdf",
+      "Downloadable": false
+    },
+     "9": {
+      "ProgramName": "9.CREDIT CARD PROCESSING",
+      "ContentToDisplay": "9.CREDIT CARD PROCESSING",
+      "ReadFile": "ooad\\Ex9.pdf",
+      "DownloadFile": "ooad\\Ex9.pdf",
+      "Downloadable": false
+    },
+     "10": {
+      "ProgramName": "10.E-B OOK MANAGEMENT SYSTEM ",
+      "ContentToDisplay": "10.E-B OOK MANAGEMENT SYSTEM ",
+      "ReadFile": "ooad\\Ex10.pdf",
+      "DownloadFile": "ooad\\Ex10.pdf",
+      "Downloadable": false
+    },
+     "11": {
+      "ProgramName": "11. RECRUITMENT SYSTEM",
+      "ContentToDisplay": "11. RECRUITMENT SYSTEM",
+      "ReadFile": "ooad\\Ex11.pdf",
+      "DownloadFile": "ooad\\Ex11.pdf",
+      "Downloadable": false
+    },
+     "12": {
+      "ProgramName": "12.FOREIGN TRADING SYSTEM ",
+      "ContentToDisplay": "12.FOREIGN TRADING SYSTEM ",
+      "ReadFile": "ooad\\Ex12.pdf",
+      "DownloadFile": "ooad\\Ex12.pdf",
+      "Downloadable": false
+     }
+}
