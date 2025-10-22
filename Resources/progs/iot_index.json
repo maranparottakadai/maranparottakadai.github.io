@@ -1,0 +1,51 @@
+{
+    "1": {
+      "ProgramName": "1.Define and Explain Eclipse IoT Project  ",
+      "ContentToDisplay": "1.Define and Explain Eclipse IoT Project  ",
+      "ReadFile": "iot\\Ex1.pdf",
+      "DownloadFile": "iot\\Ex1.pdf",
+      "Downloadable": false
+    },
+    "2": {
+      "ProgramName": "2.List and Summarize few Eclipse IoT Projects  ",
+      "ContentToDisplay": "2.List and Summarize few Eclipse IoT Projects  ",
+      "ReadFile": "iot\\Ex2.pdf",
+      "DownloadFile": "iot\\Ex2.pdf",
+      "Downloadable": false
+    },  
+     "3": {
+      "ProgramName": "3.Smart Lighting ",
+      "ContentToDisplay": "3.Smart Lighting ",
+      "ReadFile": "iot\\Ex3.pdf",
+      "DownloadFile": "iot\\Ex3.pdf",
+      "Downloadable": false
+    },
+     "4": {
+      "ProgramName": "4.Architecture of IoT",
+      "ContentToDisplay": "4.Architecture of IoT ",
+      "ReadFile": "iot\\Ex4.pdf",
+      "DownloadFile": "iot\\Ex4.pdf",
+      "Downloadable": false
+    },
+     "5": {
+      "ProgramName": "5.Overview of Zetta ",
+      "ContentToDisplay": "5.Overview of Zetta ",
+      "ReadFile": "iot\\Ex5.pdf",
+      "DownloadFile": "iot\\Ex5.pdf",
+      "Downloadable": false
+    },
+     "6": {
+      "ProgramName": "6. Weather Reporting System  ",
+      "ContentToDisplay": "6. Weather Reporting System  ",
+      "ReadFile": "iot\\Ex6.pdf",
+      "DownloadFile": "iot\\Ex6.pdf",
+      "Downloadable": false
+    },
+     "7": {
+      "ProgramName": "7.Air Pollution Monitoring System",
+      "ContentToDisplay": "7.Air Pollution Monitoring System",
+      "ReadFile": "iot\\Ex7.pdf",
+      "DownloadFile": "iot\\Ex7.pdf",
+      "Downloadable": false
+    }
+}
