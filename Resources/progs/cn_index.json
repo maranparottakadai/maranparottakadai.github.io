@@ -68,6 +68,13 @@
       "ReadFile": "cn\\EX9.pdf",
       "DownloadFile": "cn\\EX9.pdf",
       "Downloadable": false
-    }
+    },
+     "10": {
+      "ProgramName": "JAVA",
+      "ContentToDisplay": "JAVA",
+      "ReadFile": "cn\\JAVA.pdf",
+      "DownloadFile": "cn\\JAVA.pdf",
+      "Downloadable": false
+}
 }
   
