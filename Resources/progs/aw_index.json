@@ -1,80 +1,73 @@
 {
     "1": {
-      "ProgramName": "1.SIMPLE ML -PROGRAM–LINEAR REGRESSION",
-      "ContentToDisplay": "1.SIMPLE ML-PROGRAM–LINEAR REGRESSION",
-      "ReadFile": "cn\\EX1.pdf",
-      "DownloadFile": "cn\\EX1.pdf",
+      "ProgramName": "1.Sample Application Development",
+      "ContentToDisplay": "1.Sample Application Development",
+      "ReadFile": "aw\\Ex1.pdf",
+      "DownloadFile": "aw\\EX1.pdf",
       "Downloadable": false
     },
      "2": {
-      "ProgramName": "2a.Tic Tac Toe Game",
-      "ContentToDisplay": "2a.Tic Tac Toe Game",
-      "ReadFile": "cn\\EX2a.pdf",
-      "DownloadFile": "cn\\EX2a.pdf",
-      "Downloadable": false
-    },
-     "2(b)": {
-      "ProgramName": "2b.Traveling Salesman Problem (Brute Force)",
-      "ContentToDisplay": "2b.Traveling Salesman Problem (Brute Force)",
-      "ReadFile": "cn\\EX2b.pdf",
-      "DownloadFile": "cn\\EX2b.pdf",
+      "ProgramName": "2a.Create a Responsive Website using HTML5 and CSS3",
+      "ContentToDisplay": "2a.Create a Responsive Website using HTML5 and CSS3",
+      "ReadFile": "aw\\Ex2.pdf",
+      "DownloadFile": "aw\\Ex2.pdf",
       "Downloadable": false
     },
      "3": {
-      "ProgramName": "3.Simple AI Agent (Rule-based) ",
-      "ContentToDisplay": "3.Simple AI Agent (Rule-based) ",
-      "ReadFile": "cn\\EX3.pdf",
-      "DownloadFile": "cn\\EX3.pdf",
+      "ProgramName": "3.Create a Progressive Web App (PWA) that can Work Offline",
+      "ContentToDisplay": "3.Create a Progressive Web App (PWA) that can Work Offline",
+      "ReadFile": "aw\\Ex3.pdf",
+      "DownloadFile": "aw\\Ex3.pdf",
       "Downloadable": false
     },
      "4": {
-      "ProgramName": "4.Simple Knowledge-Based AI System",
-      "ContentToDisplay": "4.Simple Knowledge-Based AI System",
-      "ReadFile": "cn\\EX4.pdf",
-      "DownloadFile": "cn\\EX4.pdf",
+      "ProgramName": "4.Develop a Dynamic SPA (Single Page Application) using React.JS ",
+      "ContentToDisplay": "4.Develop a Dynamic SPA (Single Page Application) using React.JS ",
+      "ReadFile": "aw\\Ex4.pdf",
+      "DownloadFile": "aw\\Ex4.pdf",
       "Downloadable": false
     },
      "5": {
-      "ProgramName": "5. Implementations of Ontology with FOL",
-      "ContentToDisplay": "5. Implementations of Ontology with FOL",
-      "ReadFile": "cn\\EX5.pdf",
-      "DownloadFile": "cn\\EX5.pdf",
+      "ProgramName": "5.Create an Interactive Form with Validation using JavaScript and CSS3",
+      "ContentToDisplay": "5.Create an Interactive Form with Validation using JavaScript and CSS3",
+      "ReadFile": "aw\\Ex5.pdf",
+      "DownloadFile": "aw\\Ex5.pdf",
       "Downloadable": false
     },
      "6": {
-      "ProgramName": "6.Concept Learning & Design a Learning system- Find-S Algorithm",
-      "ContentToDisplay": "6.Concept Learning & Design a Learning system- Find-S Algorithm",
-      "ReadFile": "cn\\EX6.pdf",
-      "DownloadFile": "cn\\EX6.pdf",
+      "ProgramName": "6. Simulate and Mitigate Common Web Vulnerabilities (XSS, SQL Injection) in a Simple Application",
+      "ContentToDisplay": "6. Simulate and Mitigate Common Web Vulnerabilities (XSS, SQL Injection) in a Simple Application",
+      "ReadFile": "aw\\Ex6.pdf",
+      "DownloadFile": "aw\\Ex6.pdf",
       "Downloadable": false
     },
      "7": {
-      "ProgramName": "7.Decision Tree implementation with  K – mean Algorithm",
-      "ContentToDisplay": "7.Decision Tree implementation with  K – mean Algorithm",
-      "ReadFile": "cn\\EX7.pdf",
-      "DownloadFile": "cn\\EX7.pdf",
+      "ProgramName": "7.Optimize a Web Application for Performance (Minification, Lazy Loading, etc.)",
+      "ContentToDisplay": "7.Optimize a Web Application for Performance (Minification, Lazy Loading, etc.)",
+      "ReadFile": "aw\\Ex7.pdf",
+      "DownloadFile": "aw\\Ex7.pdf",
       "Downloadable": false
     },
      "8": {
-      "ProgramName": "8.Simple Perceptron Implementation for AND gate",
-      "ContentToDisplay": "8.Simple Perceptron Implementation for AND gate",
-      "ReadFile": "cn\\EX8.pdf",
-      "DownloadFile": "cn\\EX8.pdf",
+      "ProgramName": "8.Implement Automated Testing for a Java Script Based HTML Application",
+      "ContentToDisplay": "8.Implement Automated Testing for a Java Script Based HTML Application",
+      "ReadFile": "aw\\Ex8.pdf",
+      "DownloadFile": "aw\\Ex8.pdf",
       "Downloadable": false
     },
      "9": {
-      "ProgramName": "9.Multiple  Neural Network",
-      "ContentToDisplay": "9.Multiple  Neural Network",
-      "ReadFile": "cn\\EX9.pdf",
-      "DownloadFile": "cn\\EX9.pdf",
+      "ProgramName": "9.Create a To-Do List Application using React.js with Redux for State Management",
+      "ContentToDisplay": "9.Create a To-Do List Application using React.js with Redux for State Management",
+      "ReadFile": "aw\\Ex9.pdf",
+      "DownloadFile": "aw\\Ex9.pdf",
       "Downloadable": false
     },
      "10": {
-      "ProgramName": "JAVA",
-      "ContentToDisplay": "JAVA",
-      "ReadFile": "cn\\JAVA.pdf",
-      "DownloadFile": "cn\\JAVA.pdf",
+      "ProgramName": "10.Integrate JWT Authentication in a Node.js Backend Application",
+      "ContentToDisplay": "10.Integrate JWT Authentication in a Node.js Backend Application",
+      "ReadFile": "aw\\Ex10.pdf",
+      "DownloadFile": "aw\\Ex10.pdf",
       "Downloadable": false
-}
+    }
 }
   
