@@ -2,72 +2,9 @@
     "1": {
       "ProgramName": "1.Sample Application Development",
       "ContentToDisplay": "1.Sample Application Development",
-      "ReadFile": "aw\\Ex1.pdf",
-      "DownloadFile": "aw\\EX1.pdf",
-      "Downloadable": false
-    },
-     "2": {
-      "ProgramName": "2a.Create a Responsive Website using HTML5 and CSS3",
-      "ContentToDisplay": "2a.Create a Responsive Website using HTML5 and CSS3",
-      "ReadFile": "aw\\Ex2.pdf",
-      "DownloadFile": "aw\\Ex2.pdf",
-      "Downloadable": false
-    },
-     "3": {
-      "ProgramName": "3.Create a Progressive Web App (PWA) that can Work Offline",
-      "ContentToDisplay": "3.Create a Progressive Web App (PWA) that can Work Offline",
-      "ReadFile": "aw\\Ex3.pdf",
-      "DownloadFile": "aw\\Ex3.pdf",
-      "Downloadable": false
-    },
-     "4": {
-      "ProgramName": "4.Develop a Dynamic SPA (Single Page Application) using React.JS ",
-      "ContentToDisplay": "4.Develop a Dynamic SPA (Single Page Application) using React.JS ",
-      "ReadFile": "aw\\Ex4.pdf",
-      "DownloadFile": "aw\\Ex4.pdf",
-      "Downloadable": false
-    },
-     "5": {
-      "ProgramName": "5.Create an Interactive Form with Validation using JavaScript and CSS3",
-      "ContentToDisplay": "5.Create an Interactive Form with Validation using JavaScript and CSS3",
-      "ReadFile": "aw\\Ex5.pdf",
-      "DownloadFile": "aw\\Ex5.pdf",
-      "Downloadable": false
-    },
-     "6": {
-      "ProgramName": "6. Simulate and Mitigate Common Web Vulnerabilities (XSS, SQL Injection) in a Simple Application",
-      "ContentToDisplay": "6. Simulate and Mitigate Common Web Vulnerabilities (XSS, SQL Injection) in a Simple Application",
-      "ReadFile": "aw\\Ex6.pdf",
-      "DownloadFile": "aw\\Ex6.pdf",
-      "Downloadable": false
-    },
-     "7": {
-      "ProgramName": "7.Optimize a Web Application for Performance (Minification, Lazy Loading, etc.)",
-      "ContentToDisplay": "7.Optimize a Web Application for Performance (Minification, Lazy Loading, etc.)",
-      "ReadFile": "aw\\Ex7.pdf",
-      "DownloadFile": "aw\\Ex7.pdf",
-      "Downloadable": false
-    },
-     "8": {
-      "ProgramName": "8.Implement Automated Testing for a Java Script Based HTML Application",
-      "ContentToDisplay": "8.Implement Automated Testing for a Java Script Based HTML Application",
-      "ReadFile": "aw\\Ex8.pdf",
-      "DownloadFile": "aw\\Ex8.pdf",
-      "Downloadable": false
-    },
-     "9": {
-      "ProgramName": "9.Create a To-Do List Application using React.js with Redux for State Management",
-      "ContentToDisplay": "9.Create a To-Do List Application using React.js with Redux for State Management",
-      "ReadFile": "aw\\Ex9.pdf",
-      "DownloadFile": "aw\\Ex9.pdf",
-      "Downloadable": false
-    },
-     "10": {
-      "ProgramName": "10.Integrate JWT Authentication in a Node.js Backend Application",
-      "ContentToDisplay": "10.Integrate JWT Authentication in a Node.js Backend Application",
-      "ReadFile": "aw\\Ex10.pdf",
-      "DownloadFile": "aw\\Ex10.pdf",
+      "ReadFile": "aw\\Ex.pdf",
+      "DownloadFile": "aw\\Ex.pdf",
       "Downloadable": false
     }
-}
+  }
   
