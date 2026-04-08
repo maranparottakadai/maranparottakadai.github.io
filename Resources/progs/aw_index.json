@@ -1,10 +1,38 @@
 {
-    "1": {
-      "ProgramName": "1.DATA MINING TECHNIQUES",
-      "ContentToDisplay": "1.DATA MINING TECHNIQUES",
-      "ReadFile": "aw\\Ex.pdf",
-      "DownloadFile": "aw\\Ex.pdf",
-      "Downloadable": false
-    }
+  "1": {
+    "ProgramName": "1SIMULATION OF PROCESS SCHEDULING",
+    "ContentToDisplay": "1. SIMULATION OF PROCESS SCHEDULING",
+    "ReadFile": "aw\\Ex1.pdf",
+    "Downloadable": false
+  },
+  "2": {
+    "ProgramName": "2IMPLEMENTATION OF SYSTEM CALLS",
+    "ContentToDisplay": "2. IMPLEMENTATION OF SYSTEM CALLS",
+    "ReadFile": "aw\\Ex2.pdf",
+    "Downloadable": false
+  },
+  "3": {
+    "ProgramName": "3IMPLEMENTATION OF DEADLOCKS",
+    "ContentToDisplay": "3.IMPLEMENTATION OF DEADLOCKS",
+    "ReadFile": "aw\\Ex3.pdf",
+    "Downloadable": false
+  },
+  "4": {
+    "ProgramName": "4IMPLEMENTATION OF PAGE REPLACEMENT ALGORITHM ",
+    "ContentToDisplay": "4.IMPLEMENTATION OF PAGE REPLACEMENT ALGORITHM ",
+    "ReadFile": "aw\\Ex4.pdf",
+    "Downloadable": false
+  },
+  "5": {
+    "ProgramName": "5IMPLEMENTATION OF SCHEDULING ALGORITHM ",
+    "ContentToDisplay": "5. IMPLEMENTATION OF SCHEDULING ALGORITHM ",
+    "ReadFile": "aw\\Ex5.pdf",
+    "Downloadable": false
+  },
+  "6": {
+    "ProgramName": "6IMPLEMENTATION OF FILE ACCESS METHODS ",
+    "ContentToDisplay": "6.IMPLEMENTATION OF FILE ACCESS METHODS ",
+    "ReadFile": "aw\\Ex6.pdf",
+    "Downloadable": false
   }
-  
+}
