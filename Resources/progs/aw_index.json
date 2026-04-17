@@ -1,8 +1,14 @@
 {
   "1": {
-    "ProgramName": "1 IoT C Programs for Online Compiler ",
-    "ContentToDisplay": "1. IoT C Programs for Online Compiler ",
-    "ReadFile": "aw\\Ex9.pdf",
+    "ProgramName": "1 Colab Programs ",
+    "ContentToDisplay": "1. Colab Programs ",
+    "ReadFile": "aw\\Ex10.pdf",
+    "Downloadable": false
+  },
+  "2": {
+    "ProgramName": "1 prompt_final_record ",
+    "ContentToDisplay": "1. prompt_final_record ",
+    "ReadFile": "aw\\Ex11.pdf",
     "Downloadable": false
   }
 }
